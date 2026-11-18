@@ -63,8 +63,28 @@ def sincronizar(fila):
     return novos
 
 
-def publicar(item):
-    legenda = (ROOT / item["pasta"] / "legenda.txt").read_text().strip()
+def chave(texto):
+    return " ".join(texto.split())[:80]
+
+
+def ja_publicados():
+    """Chaves das legendas que ja estao no Instagram (fonte da verdade)."""
+    chaves, params = set(), {"fields": "caption", "limit": "100"}
+    data = graph("GET", f"{IG_USER}/media", params)
+    while True:
+        for m in data.get("data", []):
+            chaves.add(chave(m.get("caption", "")))
+        nxt = data.get("paging", {}).get("cursors", {}).get("after")
+        if not data.get("paging", {}).get("next") or not nxt:
+            return chaves
+        data = graph("GET", f"{IG_USER}/media", dict(params, after=nxt))
+
+
+def legenda_de(item):
+    return (ROOT / item["pasta"] / "legenda.txt").read_text().strip()
+
+
+def criar_container(item, legenda):
     url = RAW + urllib.parse.quote(item["arquivo"])
     if item["tipo"] == "video":
         c = graph("POST", f"{IG_USER}/media", {"media_type": "REELS", "video_url": url, "caption": legenda, "share_to_feed": "true"})
@@ -74,12 +94,21 @@ def publicar(item):
     for _ in range(60):  # ate ~10 min de processamento
         st = graph("GET", cid, {"fields": "status_code,status"})
         if st.get("status_code") == "FINISHED":
-            break
+            return cid
         if st.get("status_code") in ("ERROR", "EXPIRED"):
             raise RuntimeError(f"processamento falhou: {st}")
         time.sleep(10)
-    else:
-        raise RuntimeError("processamento passou de 10 minutos")
+    raise RuntimeError("processamento passou de 10 minutos")
+
+
+def publicar(item):
+    legenda = legenda_de(item)
+    try:
+        cid = criar_container(item, legenda)
+    except RuntimeError as e:  # falhas do Instagram costumam ser temporarias: tenta 1 vez mais
+        print("falhou, tentando de novo em 60 s:", e)
+        time.sleep(60)
+        cid = criar_container(item, legenda)
     pub = graph("POST", f"{IG_USER}/media_publish", {"creation_id": cid})
     info = graph("GET", pub["id"], {"fields": "permalink"})
     return pub["id"], info.get("permalink", "")
@@ -93,24 +122,39 @@ def main():
         print("novo na fila:", n["pasta"])
     if "--sync" in sys.argv:
         return
-    prox = next((i for i in fila if i["status"] == "pendente"), None)
-    if not prox:
+    # O Instagram e a fonte da verdade do que ja saiu: assim a fila funciona
+    # mesmo quando a execucao nao consegue salvar o fila.json no GitHub.
+    publicados = ja_publicados()
+    for i in fila:
+        if i["status"] in ("pendente", "erro") and chave(legenda_de(i)) in publicados:
+            i["status"] = "publicado"
+    candidatos = [i for i in fila if i["status"] in ("pendente", "erro")]
+    candidatos.sort(key=lambda i: i["status"] == "erro")  # pendentes primeiro, erros antigos por ultimo
+    print("restantes na fila:", len(candidatos))
+    if not candidatos:
         print("FILA VAZIA: nada para publicar")
+        salvar(fila)
         return
-    print("proximo:", prox["pasta"])
     if "--dry" in sys.argv:
+        print("proximo:", candidatos[0]["pasta"])
         return
     agora = datetime.datetime.now(datetime.timezone.utc).isoformat(timespec="seconds")
-    try:
-        mid, link = publicar(prox)
-        prox.update(status="publicado", publicado_em=agora, media_id=mid, link=link)
-        print("PUBLICADO:", link)
-    except Exception as e:
-        prox.update(status="erro", erro=str(e)[:500], tentado_em=agora)
-        print("ERRO:", e)
+    for item in candidatos[:2]:  # se um item falhar, tenta o seguinte (publica no maximo 1)
+        print("tentando:", item["pasta"])
+        try:
+            mid, link = publicar(item)
+        except Exception as e:
+            item.update(status="erro", erro=str(e)[:500], tentado_em=agora)
+            print("ERRO:", item["pasta"], e)
+            continue
+        item.update(status="publicado", publicado_em=agora, media_id=mid, link=link)
+        item.pop("erro", None)
+        print("PUBLICADO:", item["pasta"], link)
+        print("restantes depois desta:", len(candidatos) - 1)
         salvar(fila)
-        sys.exit(1)
+        return
     salvar(fila)
+    sys.exit(1)
 
 
 if __name__ == "__main__":
