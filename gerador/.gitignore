@@ -1,0 +1,9 @@
+node_modules/
+voices/
+frames/
+frames_ext/
+out/*/voice.wav
+out/*/audio.wav
+out/*/events.json
+test/
+*.mp4

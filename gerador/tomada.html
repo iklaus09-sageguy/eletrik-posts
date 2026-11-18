@@ -1,0 +1,135 @@
+<!doctype html>
+<html lang="pt-BR"><head><meta charset="utf-8"><title>EletriK - Tomada derretendo</title>
+<style>
+@font-face{font-family:Rubik;src:url(node_modules/@fontsource/rubik/files/rubik-latin-800-normal.woff2);font-weight:800}
+@font-face{font-family:Rubik;src:url(node_modules/@fontsource/rubik/files/rubik-latin-900-normal.woff2);font-weight:900}
+@font-face{font-family:Fredoka;src:url(node_modules/@fontsource/fredoka/files/fredoka-latin-600-normal.woff2);font-weight:600}
+@font-face{font-family:Fredoka;src:url(node_modules/@fontsource/fredoka/files/fredoka-latin-700-normal.woff2);font-weight:700}
+html,body{margin:0;background:#0B1A4F;overflow:hidden} svg{display:block}
+.f{font-family:Fredoka;font-weight:700} .f6{font-family:Fredoka;font-weight:600}
+.r8{font-family:Rubik;font-weight:800} .r9{font-family:Rubik;font-weight:900}
+.ol{stroke:#0B1A4F;stroke-width:6;stroke-linejoin:round;stroke-linecap:round}
+</style></head>
+<body>
+<svg id="svg" xmlns="http://www.w3.org/2000/svg" width="1080" height="1920" viewBox="0 0 1080 1920"></svg>
+<script>window.NAME='tomada'</script>
+<script src="out/tomada/timeline.js"></script>
+<script src="lib.js"></script>
+<script src="engine.js"></script>
+<script>
+const arrow = (x1,x2,y=0,c=K.orange) => `<path d="M${x1},${y} H${x2} M${x2-22},${y-20} L${x2},${y} L${x2-22},${y+20}" stroke="${c}" stroke-width="12" fill="none" stroke-linecap="round" stroke-linejoin="round"/>`;
+// parede com tomada + T + cabos (cena de abertura)
+const outletScene = (id) => `<rect x="-260" y="-250" width="520" height="500" rx="30" fill="${K.navy}" opacity=".18" transform="translate(10,12)"/>
+  <rect x="-260" y="-250" width="520" height="500" rx="30" fill="#F3E6D4" class="ol"/>
+  ${[0,1,2,3].map(r=>`<path d="M-250,${-130+r*100} H250" stroke="#E5D3BC" stroke-width="4"/>`).join('')}
+  <g transform="translate(0,-30) scale(1.25)">${outletIcon(id,10)}</g>
+  <g id="${id}_T"><g transform="translate(0,-30) scale(.95)">${adapterT()}</g>
+    <path d="M-70,-30 Q-140,120 -170,240" stroke="${K.navy}" stroke-width="16" fill="none" stroke-linecap="round"/>
+    <path d="M70,-30 Q140,120 170,240" stroke="${K.navy}" stroke-width="16" fill="none" stroke-linecap="round"/>
+    <path d="M0,-40 Q20,140 40,240" stroke="${K.navy}" stroke-width="16" fill="none" stroke-linecap="round"/></g>
+  ${heatWaves(id+'_hw',[-90,0,90],-150)}${smokeSVG(id+'_sm',4)}
+  <g id="${id}_new" opacity="0"><path d="${star(8,60,22)}" fill="#fff" class="ol" transform="translate(150,-170)"/></g>`;
+
+VIDEO({
+  cover: () => coverBase() +
+    T(540,410,78,'SUA TOMADA') + T(540,495,78,'ESTÁ DERRETENDO?') +
+    T(540,640,104,'NÃO É A TOMADA!',{c:'r9',fill:K.orange,extra:'paint-order="stroke" stroke="#fff" stroke-width="12"'}) +
+    `<g transform="translate(610,980) scale(.78)">${outletScene('cvO')}</g>` +
+    `<g transform="translate(890,800) rotate(12)"><path d="${star(12,100,70)}" fill="${K.orange}" class="ol"/>${T(0,14,36,'PERIGO!',{c:'r9',fill:'#fff'})}</g>` +
+    kikoCover() + coverBanner('O CULPADO É OUTRO'),
+  init: () => { $('cvO_melt').setAttribute('opacity',1); $('cvO_hw').style.opacity=0; for(let i=0;i<4;i++) $('cvO_sm'+i).style.opacity=0; },
+  titles: [[0,2,'Tomada derretendo?','derretendo'],[3,4,'Mas atenção!','atenção'],[5,5,'O problema é outro','outro'],[6,6,'Quem é o culpado?','culpado'],
+    [7,7,'Fica até o final!','final'],[8,10,'Lembra do cano?','cano'],[11,11,'O culpado','culpado'],[12,17,'Vamos fazer uma conta','conta'],
+    [18,18,'O ponto fraco','fraco'],[19,23,'Sinais de alerta','alerta'],[24,27,'Regra de ouro','ouro'],[28,28,'Resumindo',''],[29,30,null,null]]
+    .map(([a,b,txt,kw])=>[S[a], b+1<S.length?S[b+1]:D+1, txt, kw]),
+  clacks: [[s(11,.45),470,430,-8,'CULPADO!','boing']],
+  palp: {in:s(1), out:s(3)},
+  kikoIn: s(3),
+  point: [[3,3],[7,7],[10,10],[13,13],[24,24]],
+  worry: [[4,4],[17,18],[23,23]],
+  cta: 29,
+  drop: [[s(4,.5),s(5)],[s(17),s(19)],[s(23,.3),s(24)]],
+  sizzle: [[s(0,.3),s(1,.6)],[s(4,.3),s(5)],[s(18),s(19)]],
+  events: [[s(1,.75),'ding'],[s(4,.62),'buzz'],[s(1,.75),'whoosh']],
+  specs: () => {
+    // --- A: gancho
+    el('outA', outletScene('oA'), {x:540,y:570, in:s(0), out:s(5)});
+    el('bubble', bubbleSVG('É só trocar','a tomada!'), {x:540,y:880, in:s(1,.3), out:s(2,.2), sfx:'boing'});
+    el('novaTag', pill(300,84,'novinha!',K.blue,'#fff',48), {x:540,y:880, in:s(2,.1), out:s(4,.4), sfx:'ding'});
+    el('deNovo', stampSVG('DERRETEU','DE NOVO!',K.orange,620), {x:540,y:880,r:-7, in:s(4,.65), out:s(5), sfx:'buzz'});
+    el('cTom', card('cTomC','a tomada', `<g transform="translate(0,30) scale(.95)">${outletIcon('',10)}</g>`), {x:290,y:640, in:s(5,.1), out:s(6)});
+    el('xTom', badgeX('xTomB'), {x:475,y:465, in:s(5,.35), out:s(6), sfx:'buzz'});
+    el('cLiga', card('cLigaC','o que você liga', `<g transform="translate(0,10) scale(.95)">${adapterT()}</g>`), {x:790,y:640, in:s(5,.55), out:s(6)});
+    el('okLiga', badgeOK('okLigaB'), {x:975,y:465, in:s(5,.8), out:s(6), sfx:'ding'});
+    el('silh', box(440,460,'campeão?',`<g transform="translate(0,40) scale(1.1)">${fryerIcon(true)}</g>`), {x:470,y:620, in:s(6,.35), out:s(7)});
+    el('silhQ', bigQ(), {x:840,y:480, in:s(6,.6), out:s(7), sfx:'boing'});
+    // --- B: promessa
+    [['1','Quem é',T(0,60,120,'?',{c:'r9',fill:K.orange})],['2','A conta',T(0,60,120,'÷',{c:'r9',fill:K.blue})],['3','Jeito certo',`<g transform="translate(0,25) scale(1.3)">${badgeOK('pv3')}</g>`]]
+      .forEach(([n,l,ic],i)=>el('prev'+i, previewCard(n,l,ic), {x:[195,540,885][i], y:620, in:s(7,[.2,.45,.72][i]), out:s(8)}));
+    // --- C: analogia
+    el('pipeW', pipe(), {x:540,y:650, in:s(8), out:s(10)});
+    el('tagLembra', pill(280,80,'lembra?',K.navy,'#fff',44), {x:540,y:480, in:s(8,.1), out:s(9,.3)});
+    el('tagLimite', pill(400,80,'tomada = limite',K.orange,'#fff',44), {x:540,y:480, in:s(9,.4), out:s(10)});
+    el('o10', box(400,440,'comum',`<g transform="translate(0,30)">${outletIcon('',10)}</g>`), {x:290,y:640, in:s(10), out:s(11)});
+    el('o20', box(400,440,'pino grosso',`<g transform="translate(0,30)">${outletIcon('',20)}</g>`,K.orange), {x:790,y:640, in:s(10,.5), out:s(11)});
+    // --- D: culpado + conta
+    el('fryer', box(400,440,'air fryer',`<g transform="translate(0,40) scale(.95)">${fryerIcon()}</g>`), {x:290,y:640, in:s(11,.35), out:s(14), sfx:'boing'});
+    el('formula', box(420,440,null,`${T(0,-100,52,'1.500 W')}${T(0,-35,52,'÷ 127 V')}<path d="M-150,0 H150" stroke="${K.navy}" stroke-width="6"/>`+
+       sub('fRes',0,110,T(0,0,100,'≈ 12 A',{c:'r9',fill:K.orange}))), {x:790,y:640, in:s(12), out:s(13), subs:[['fRes',s(12,.75)]]});
+    el('plugC', box(400,440,'vem com',`<g transform="translate(0,40) scale(1.15)">${plugIcon(true)}</g>`,K.orange), {x:790,y:640, in:s(13), out:s(14)});
+    el('chain', box(920,420,'o "jeitinho"',`<g transform="translate(-320,70) scale(.85)">${plugIcon(true)}</g>${arrow(-210,-110,30)}
+       <g transform="translate(0,30)"><rect x="-80" y="-60" width="160" height="120" rx="20" fill="${K.orange}" class="ol"/>${T(0,14,30,'adaptador',{fill:'#fff'})}</g>${arrow(110,210,30)}
+       <g transform="translate(320,40) scale(.8)">${outletIcon('',10)}</g>`), {x:540,y:640, in:s(14), out:s(15)});
+    el('bars', box(900,420,'contato da tomada de 10 A',`
+       ${T(-410,-55,36,'aguenta',{a:'start'})}<rect x="-410" y="-40" width="780" height="56" rx="14" fill="#EEF1FA"/><rect id="barA" x="-410" y="-40" width="0" height="56" rx="14" fill="${K.blue}"/>${sub('bA',-410+300+60,-2,T(0,10,40,'10 A',{c:'r9',fill:K.blue}))}
+       ${T(-410,70,36,'passa',{a:'start'})}<rect x="-410" y="85" width="780" height="56" rx="14" fill="#EEF1FA"/><rect id="barB" x="-410" y="85" width="0" height="56" rx="14" fill="${K.orange}"/>
+       ${sub('b12',-410+360+60,123,T(0,10,40,'12 A',{c:'r9',fill:K.orange}))}${sub('b23',-410+690+55,123,T(0,10,40,'23 A',{c:'r9',fill:K.orange}))}
+       <path d="M${-410+300},-60 V160" stroke="${K.navy}" stroke-width="5" stroke-dasharray="12 10"/>`),
+       {x:540,y:640, in:s(15), out:s(18), subs:[['bA',s(15,.2)],['b12',s(15,.5),s(16,.7)],['b23',s(16,.75)]]});
+    el('microTag', `<g transform="translate(-150,0) scale(.42)">${microIcon()}</g>`+`<g transform="translate(60,0)">${pill(300,76,'+ micro-ondas',K.orange,'#fff',38)}</g>`, {x:540,y:910, in:s(16,.15), out:s(18)});
+    el('cinco', starBadge('5x','mais calor'), {x:210,y:960,s:.9,r:-8, in:s(17), out:s(18), sfx:'boing'});
+    el('zoomO', `<g transform="scale(1.7)">${outletIcon('oZ',10)}</g>${smokeSVG('oZsm',4)}`, {x:540,y:610, in:s(18), out:s(19)});
+    el('tagContato', pill(440,84,'o ponto fraco: o contato',K.orange,'#fff',38), {x:540,y:900, in:s(18,.4), out:s(19)});
+    // --- E: sinais
+    el('big3', bigNum('3'), {x:540,y:620, in:s(19,.5), out:s(20), sfx:'boing'});
+    el('row0', row(1,'Quente ao toque','tomada ou plugue',`<g transform="scale(.9)">${thermoIcon()}</g>`), {x:540,y:450, in:s(20), out:s(24)});
+    el('row1', row(2,'Cheiro ou manchas','plástico queimado, marcas escuras',stainIcon()), {x:540,y:620, in:s(21), out:s(24)});
+    el('row2', row(3,'Plugue folgado','cai sozinho da tomada',loosePlug()), {x:540,y:790, in:s(22), out:s(24)});
+    el('stamp', stampSVG('DESLIGA O APARELHO','CHAMA UM ELETRICISTA',K.orange,880), {x:540,y:620,r:-6, in:s(23,.4), out:s(24), sfx:'buzz'});
+    // --- F: regra de ouro
+    el('rule', box(860,460,null,`${T(0,-80,104,'Pino grosso',{c:'r9',fill:K.orange})}${T(0,20,60,'→ tomada de 20 A')}`+
+       sub('ruleNo',0,135,pill(500,76,'sem adaptador · sem T',K.navy,'#fff',40))), {x:540,y:620, in:s(24,.25), out:s(25), subs:[['ruleNo',s(24,.75)]]});
+    const ROWS=[['Air fryer 1.500 W','12 A','20 A'],['Micro-ondas 1.400 W','11 A','20 A'],['Ferro 1.000 W','8 A','10 A'],['TV 150 W','1 A','10 A']];
+    el('table', box(920,580,'Em 127 V (aprox.)',`${T(-410,-180,30,'APARELHO',{a:'start',c:'r8',fill:'#55608A'})}${T(170,-180,30,'PUXA',{c:'r8',fill:'#55608A'})}${T(340,-180,30,'TOMADA',{c:'r8',fill:'#55608A'})}`+
+       ROWS.map((r,i)=>sub('tr'+i,0,-110+i*84,`<rect x="-430" y="-35" width="860" height="70" rx="16" fill="${r[2]==='20 A'?'#FFE4D2':'#EEF1FA'}"/>${T(-410,14,40,r[0],{a:'start',c:'f'})}${T(170,15,44,r[1],{c:'r9'})}${T(340,15,44,r[2],{c:'r9',fill:r[2]==='20 A'?K.orange:K.blue})}`)).join('')+
+       T(0,262,23,'Valores aproximados · em 220 V a corrente cai quase pela metade · confira a etiqueta',{c:'f6',fill:'#55608A'})),
+       {x:540,y:640, in:s(25), out:s(26), subs:ROWS.map((r,i)=>['tr'+i, s(25,.25)+i*.35])});
+    el('compat', box(920,400,'tudo compatível',[['tomada 20 A',-290],['fio 2,5 mm²',0],['disjuntor 20 A',290]].map(([l,x],i)=>
+       `<g transform="translate(${x},-10)">${pill(270,76,l,i===0?K.orange:K.blue,'#fff',34)}</g>`+sub('ck'+i,x,95,badgeOK('ckb'+i))).join('')),
+       {x:540,y:620, in:s(26), out:s(27), subs:[0,1,2].map(i=>['ck'+i, s(26,.45)+i*.3])});
+    el('pro', proCard(), {x:540,y:620, in:s(27), out:s(28), subs:[['proOk',s(27,.6)]]});
+    // --- G: resumo
+    el('resumo', box(860,480,null,`<g transform="translate(0,-130) scale(.85)">${thermoIcon()}</g>${T(0,30,58,'Tomada quente')}${T(0,135,110,'= ALERTA',{c:'r9',fill:K.orange})}`+
+       sub('resNo',0,205,T(0,0,36,'corrente demais ou contato ruim',{c:'f6',fill:'#55608A'}))), {x:540,y:620, in:s(28), out:s(29), subs:[['resNo',s(28,.7)]]});
+  },
+  fx: (t) => {
+    // abertura: derrete, troca, derrete de novo
+    const melt = C(s(0,.35),s(0,.95),t)*(1-C(s(1,.75),s(1,.82),t)) + C(s(4,.3),s(4,.85),t);
+    $('oA_melt').setAttribute('opacity', Math.min(1,melt));
+    const hasT = t<s(1,.75) || t>s(4,.05); $('oA_T').style.display = hasT?'':'none';
+    const hot = C(s(0,.1),s(0,.4),t)*(1-C(s(1,.75),s(1,.8),t)) + C(s(4),s(4,.3),t);
+    animWaves('oA_hw', t, Math.min(1,hot));
+    animSmoke('oA_sm', t, (t<s(2)?s(0,.6):s(4,.5)), 0, -120, 4, 60, 160);
+    if((t>s(1,.75)&&t<s(4,.5))) for(let i=0;i<4;i++) $('oA_sm'+i).style.opacity=0;
+    $('oA_new').setAttribute('opacity', C(s(1,.75),s(1,.8),t)*(1-C(s(2,.8),s(3),t)));
+    // cano
+    setPipe(t, lerp(96,44,eio(C(s(9,.4),s(9,.4)+.6,t))), 1, 0);
+    // barras
+    $('barA').setAttribute('width', 300*eo(C(s(15,.1),s(15,.1)+.6,t)));
+    $('barB').setAttribute('width', lerp(0,360,eo(C(s(15,.4),s(15,.4)+.6,t))) + lerp(0,330,eo(C(s(16,.6),s(16,.6)+.7,t))));
+    // close na tomada derretendo
+    $('oZ_melt').setAttribute('opacity', C(s(18),s(18)+1.2,t));
+    animSmoke('oZsm', t, s(18,.3), 0, -160, 4, 80, 200);
+  },
+});
+</script></body></html>
