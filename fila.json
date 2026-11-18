@@ -18,7 +18,10 @@
     "pasta": "videos/02-tomada-derretendo",
     "tipo": "video",
     "arquivo": "videos/02-tomada-derretendo/video.mp4",
-    "status": "pendente"
+    "status": "publicado",
+    "publicado_em": "2026-11-18T22:03:09+00:00",
+    "media_id": "17908130955349422",
+    "link": "https://www.instagram.com/reel/Df5iK3_DG00/"
   },
   {
     "pasta": "videos/03-dr-desarmando",
