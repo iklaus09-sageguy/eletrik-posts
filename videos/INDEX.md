@@ -19,4 +19,4 @@
 | 15 | Mito ou verdade: desligar o disjuntor à noite economiza? | 1min20 | `videos/15-disjuntor-noite/video.mp4` |
 
 ## Não encontrados no container
-Nenhum — todos os 11 vídeos foram incluídos.
+Nenhum.
