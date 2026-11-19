@@ -17,6 +17,10 @@
 | 13 | Chuveiro inverno x verão: quanto muda na conta? | 1min30 | `videos/13-chuveiro-inverno-verao/video.mp4` |
 | 14 | Cores dos fios: o que cada uma significa | 1min27 | `videos/14-cores-dos-fios/video.mp4` |
 | 15 | Mito ou verdade: desligar o disjuntor à noite economiza? | 1min20 | `videos/15-disjuntor-noite/video.mp4` |
+| 16 | Raio e surto: o DPS protege seus aparelhos? | 1min29 | `videos/16-dps/video.mp4` |
+| 17 | Geladeira velha: vale a pena trocar? | 1min28 | `videos/17-geladeira-velha/video.mp4` |
+| 18 | Lâmpada LED x fluorescente: a conta da troca | 1min23 | `videos/18-lampada-led/video.mp4` |
+| 19 | Energia solar: zera a conta? Em quanto tempo se paga? | 1min39 | `videos/19-energia-solar/video.mp4` |
 
 ## Não encontrados no container
 Nenhum.

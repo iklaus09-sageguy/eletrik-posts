@@ -1,0 +1,5 @@
+Filtro de linha barato não segura surto de raio. Quem faz esse trabalho é o DPS, no quadro de luz.
+Ele limita o pico de tensão e desvia o excesso para o terra, por isso DPS sem aterramento não funciona.
+Em tempestade forte, tire da tomada os aparelhos sensíveis. Valores típicos, variam por modelo.
+
+#dps #raio #surto #aterramento #eletrica #eletrikhub
