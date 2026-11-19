@@ -7,3 +7,6 @@ out/*/audio.wav
 out/*/events.json
 test/
 *.mp4
+__pycache__/
+*.html
+!tomada.html
