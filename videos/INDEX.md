@@ -25,6 +25,11 @@
 | 21 | Micro-ondas, air fryer ou forno: qual gasta menos? | 1min34 | `videos/21-cozinha-eletrica/video.mp4` |
 | 22 | Disjuntor bipolar ou monopolar: quando usar? | 1min32 | `videos/22-disjuntor-bipolar/video.mp4` |
 | 23 | Carro elétrico em casa: o que a instalação precisa | 1min35 | `videos/23-carro-eletrico/video.mp4` |
+| 24 | Máquina de lavar: água quente pesa na conta? | 1min31 | `videos/24-maquina-lavar/video.mp4` |
+| 25 | Carregador plugado sem celular: gasta? É perigoso? | 1min18 | `videos/25-carregador-plugado/video.mp4` |
+| 26 | Interruptor esquentando: o que significa? | 1min19 | `videos/26-interruptor-quente/video.mp4` |
+| 27 | Fio de 1,5 ou 2,5 mm²: onde usar cada um | 1min28 | `videos/27-fio-15-25/video.mp4` |
+| 28 | Benjamim e T: por que são perigosos? | 1min26 | `videos/28-benjamim/video.mp4` |
 
 ## Não encontrados no container
 Nenhum.
