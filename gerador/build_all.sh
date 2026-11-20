@@ -1,7 +1,7 @@
 #!/bin/bash
 # uso: bash build_all.sh <tema> [<tema> ...]   (gera <tema>.html, quadros, áudio e MP4)
 set -e
-declare -A OUTN=([_x]=_x [extensao]=EletriK_extensao [conta]=EletriK_conta_de_luz [lampada]=EletriK_lampada_piscando [aluminio]=EletriK_aluminio_cobre [choque]=EletriK_primeiros_socorros_choque [standby]=EletriK_standby)
+declare -A OUTN=([_y]=_y [_x]=_x [extensao]=EletriK_extensao [conta]=EletriK_conta_de_luz [lampada]=EletriK_lampada_piscando [aluminio]=EletriK_aluminio_cobre [choque]=EletriK_primeiros_socorros_choque [standby]=EletriK_standby)
 for n in "$@"; do
   python3 make_html.py $n
   node render.js $n.html full
