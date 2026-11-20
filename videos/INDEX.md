@@ -21,6 +21,10 @@
 | 17 | Geladeira velha: vale a pena trocar? | 1min28 | `videos/17-geladeira-velha/video.mp4` |
 | 18 | Lâmpada LED x fluorescente: a conta da troca | 1min23 | `videos/18-lampada-led/video.mp4` |
 | 19 | Energia solar: zera a conta? Em quanto tempo se paga? | 1min39 | `videos/19-energia-solar/video.mp4` |
+| 20 | Ventilador ou ar-condicionado: qual gasta menos? | 1min30 | `videos/20-ventilador-ar/video.mp4` |
+| 21 | Micro-ondas, air fryer ou forno: qual gasta menos? | 1min34 | `videos/21-cozinha-eletrica/video.mp4` |
+| 22 | Disjuntor bipolar ou monopolar: quando usar? | 1min32 | `videos/22-disjuntor-bipolar/video.mp4` |
+| 23 | Carro elétrico em casa: o que a instalação precisa | 1min35 | `videos/23-carro-eletrico/video.mp4` |
 
 ## Não encontrados no container
 Nenhum.
