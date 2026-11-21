@@ -12,6 +12,8 @@ Disjuntor caindo · Tomada derretendo · DR desarmando · Chuveiro queimando res
 - Iluminação de jardim e piscina: cuidados com água
 - Bomba d'água e caixa d'água: consumo e proteção
 
+- Fritadeira, chaleira e sanduicheira: os 'pequenos' gastões
+
 ## Energia solar (1 por dia, obrigatório)
 - Energia solar com bateria: vale a pena?
 - Lei 14.300: o que mudou para quem instala agora
@@ -23,4 +25,3 @@ Disjuntor caindo · Tomada derretendo · DR desarmando · Chuveiro queimando res
 - Solar desliga quando falta luz? (e por que isso é seguro)
 - Manutenção do sistema solar: o que fazer e quando
 - Solar e telhado: o peso das placas e a estrutura
-- Fritadeira, chaleira e sanduicheira: os 'pequenos' gastões
