@@ -1,0 +1,5 @@
+Consumo do mês = leitura de hoje menos a leitura do mês passado. No digital, é o número em kWh; no de ponteiros, leia da esquerda para a direita e anote o menor número.
+Anotar toda semana ajuda a achar o que disparou o consumo e a fazer o teste de fuga.
+Nunca abra a caixa do medidor: ela é lacrada pela distribuidora.
+
+#medidordeenergia #contadeluz #economiadeenergia #kwh #eletrica #eletrikhub

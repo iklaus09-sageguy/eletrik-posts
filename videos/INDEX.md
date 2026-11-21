@@ -30,6 +30,10 @@
 | 26 | Interruptor esquentando: o que significa? | 1min19 | `videos/26-interruptor-quente/video.mp4` |
 | 27 | Fio de 1,5 ou 2,5 mm²: onde usar cada um | 1min28 | `videos/27-fio-15-25/video.mp4` |
 | 28 | Benjamim e T: por que são perigosos? | 1min26 | `videos/28-benjamim/video.mp4` |
+| 29 | Placa solar suja: quanto perde de geração? | 1min30 | `videos/29-painel-sujo/video.mp4` |
+| 30 | Ferro de passar: o vilão escondido da conta? | 1min17 | `videos/30-ferro-passar/video.mp4` |
+| 31 | Aquecedor elétrico no inverno: quanto custa? | 1min36 | `videos/31-aquecedor/video.mp4` |
+| 32 | Como ler o seu medidor de energia | 1min35 | `videos/32-ler-medidor/video.mp4` |
 
 ## Não encontrados no container
 Nenhum.
