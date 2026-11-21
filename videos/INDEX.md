@@ -34,6 +34,11 @@
 | 30 | Ferro de passar: o vilão escondido da conta? | 1min17 | `videos/30-ferro-passar/video.mp4` |
 | 31 | Aquecedor elétrico no inverno: quanto custa? | 1min36 | `videos/31-aquecedor/video.mp4` |
 | 32 | Como ler o seu medidor de energia | 1min35 | `videos/32-ler-medidor/video.mp4` |
+| 33 | Energia solar com bateria: vale a pena? | 1min28 | `videos/33-solar-bateria/video.mp4` |
+| 34 | Solar no nublado e à noite: gera ou não? | 1min24 | `videos/34-solar-nublado/video.mp4` |
+| 35 | Bomba d'água ligando sozinha: consumo e proteção | 1min29 | `videos/35-bomba-agua/video.mp4` |
+| 36 | Chaleira, sanduicheira e secador: gastam muito? | 1min31 | `videos/36-pequenos-gastoes/video.mp4` |
+| 37 | Luz no jardim e na piscina: cuidados com água | 1min33 | `videos/37-jardim-piscina/video.mp4` |
 
 ## Não encontrados no container
 Nenhum.

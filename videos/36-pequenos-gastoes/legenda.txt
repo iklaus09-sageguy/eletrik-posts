@@ -1,0 +1,5 @@
+Chaleira, sanduicheira e secador têm potência alta, mas ficam pouco tempo ligados: na conta, pesam pouco.
+O problema é a tomada: 2.000 W em 127 V puxam quase 16 A, mais que uma tomada comum de 10 A aguenta.
+Direto na tomada certa, sem T, e nunca dois ao mesmo tempo. Valores ilustrativos.
+
+#economiadeenergia #tomada #segurancaeletrica #contadeluz #eletrica #eletrikhub
