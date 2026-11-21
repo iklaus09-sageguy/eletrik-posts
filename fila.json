@@ -76,5 +76,131 @@
     "tipo": "video",
     "arquivo": "videos/11-standby/video.mp4",
     "status": "pendente"
+  },
+  {
+    "pasta": "videos/12-choque-chuveiro",
+    "tipo": "video",
+    "arquivo": "videos/12-choque-chuveiro/video.mp4",
+    "status": "pendente"
+  },
+  {
+    "pasta": "videos/13-chuveiro-inverno-verao",
+    "tipo": "video",
+    "arquivo": "videos/13-chuveiro-inverno-verao/video.mp4",
+    "status": "pendente"
+  },
+  {
+    "pasta": "videos/14-cores-dos-fios",
+    "tipo": "video",
+    "arquivo": "videos/14-cores-dos-fios/video.mp4",
+    "status": "pendente"
+  },
+  {
+    "pasta": "videos/15-disjuntor-noite",
+    "tipo": "video",
+    "arquivo": "videos/15-disjuntor-noite/video.mp4",
+    "status": "pendente"
+  },
+  {
+    "pasta": "videos/16-dps",
+    "tipo": "video",
+    "arquivo": "videos/16-dps/video.mp4",
+    "status": "pendente"
+  },
+  {
+    "pasta": "videos/17-geladeira-velha",
+    "tipo": "video",
+    "arquivo": "videos/17-geladeira-velha/video.mp4",
+    "status": "pendente"
+  },
+  {
+    "pasta": "videos/18-lampada-led",
+    "tipo": "video",
+    "arquivo": "videos/18-lampada-led/video.mp4",
+    "status": "pendente"
+  },
+  {
+    "pasta": "videos/19-energia-solar",
+    "tipo": "video",
+    "arquivo": "videos/19-energia-solar/video.mp4",
+    "status": "pendente"
+  },
+  {
+    "pasta": "videos/20-ventilador-ar",
+    "tipo": "video",
+    "arquivo": "videos/20-ventilador-ar/video.mp4",
+    "status": "pendente"
+  },
+  {
+    "pasta": "videos/21-cozinha-eletrica",
+    "tipo": "video",
+    "arquivo": "videos/21-cozinha-eletrica/video.mp4",
+    "status": "pendente"
+  },
+  {
+    "pasta": "videos/22-disjuntor-bipolar",
+    "tipo": "video",
+    "arquivo": "videos/22-disjuntor-bipolar/video.mp4",
+    "status": "pendente"
+  },
+  {
+    "pasta": "videos/23-carro-eletrico",
+    "tipo": "video",
+    "arquivo": "videos/23-carro-eletrico/video.mp4",
+    "status": "pendente"
+  },
+  {
+    "pasta": "videos/24-maquina-lavar",
+    "tipo": "video",
+    "arquivo": "videos/24-maquina-lavar/video.mp4",
+    "status": "pendente"
+  },
+  {
+    "pasta": "videos/25-carregador-plugado",
+    "tipo": "video",
+    "arquivo": "videos/25-carregador-plugado/video.mp4",
+    "status": "pendente"
+  },
+  {
+    "pasta": "videos/26-interruptor-quente",
+    "tipo": "video",
+    "arquivo": "videos/26-interruptor-quente/video.mp4",
+    "status": "pendente"
+  },
+  {
+    "pasta": "videos/27-fio-15-25",
+    "tipo": "video",
+    "arquivo": "videos/27-fio-15-25/video.mp4",
+    "status": "pendente"
+  },
+  {
+    "pasta": "videos/28-benjamim",
+    "tipo": "video",
+    "arquivo": "videos/28-benjamim/video.mp4",
+    "status": "pendente"
+  },
+  {
+    "pasta": "videos/29-painel-sujo",
+    "tipo": "video",
+    "arquivo": "videos/29-painel-sujo/video.mp4",
+    "status": "pendente"
+  },
+  {
+    "pasta": "videos/30-ferro-passar",
+    "tipo": "video",
+    "arquivo": "videos/30-ferro-passar/video.mp4",
+    "status": "pendente"
+  },
+  {
+    "pasta": "videos/31-aquecedor",
+    "tipo": "video",
+    "arquivo": "videos/31-aquecedor/video.mp4",
+    "status": "pendente"
+  },
+  {
+    "pasta": "videos/32-ler-medidor",
+    "tipo": "video",
+    "arquivo": "videos/32-ler-medidor/video.mp4",
+    "status": "pendente"
   }
 ]
