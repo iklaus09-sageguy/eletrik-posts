@@ -39,6 +39,10 @@
 | 35 | Bomba d'água ligando sozinha: consumo e proteção | 1min29 | `videos/35-bomba-agua/video.mp4` |
 | 36 | Chaleira, sanduicheira e secador: gastam muito? | 1min31 | `videos/36-pequenos-gastoes/video.mp4` |
 | 37 | Luz no jardim e na piscina: cuidados com água | 1min33 | `videos/37-jardim-piscina/video.mp4` |
+| 38 | Tem placa solar e fica sem luz no apagão? Não é defeito | 1min29 | `videos/38-solar-apagao/video.mp4` |
+| 39 | Chuveiro elétrico ou aquecedor a gás: qual compensa? | 1min27 | `videos/39-chuveiro-gas/video.mp4` |
+| 40 | Tomada de 10 ou 20 A: como saber qual é a sua? | 1min36 | `videos/40-tomada-10-20/video.mp4` |
+| 41 | Por que a lâmpada queima toda hora? | 1min29 | `videos/41-lampada-queima/video.mp4` |
 
 ## Não encontrados no container
 Nenhum.
