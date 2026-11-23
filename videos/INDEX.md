@@ -43,6 +43,10 @@
 | 39 | Chuveiro elétrico ou aquecedor a gás: qual compensa? | 1min27 | `videos/39-chuveiro-gas/video.mp4` |
 | 40 | Tomada de 10 ou 20 A: como saber qual é a sua? | 1min36 | `videos/40-tomada-10-20/video.mp4` |
 | 41 | Por que a lâmpada queima toda hora? | 1min29 | `videos/41-lampada-queima/video.mp4` |
+| 42 | ☀️ Quantas placas solares você precisa? | 1min35 | `videos/42-quantas-placas/video.mp4` |
+| 43 | Ar-condicionado: quantos BTUs? | 1min29 | `videos/43-btus/video.mp4` |
+| 44 | Quadro de luz: 5 sinais de reforma | 1min22 | `videos/44-quadro-reforma/video.mp4` |
+| 45 | Fusível ou disjuntor: o que mudou? | 1min35 | `videos/45-fusivel-disjuntor/video.mp4` |
 
 ## Não encontrados no container
 Nenhum.
