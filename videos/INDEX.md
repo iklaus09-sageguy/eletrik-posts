@@ -47,6 +47,10 @@
 | 43 | Ar-condicionado: quantos BTUs? | 1min29 | `videos/43-btus/video.mp4` |
 | 44 | Quadro de luz: 5 sinais de reforma | 1min22 | `videos/44-quadro-reforma/video.mp4` |
 | 45 | Fusível ou disjuntor: o que mudou? | 1min35 | `videos/45-fusivel-disjuntor/video.mp4` |
+| 46 | ☀️ Uma placa na sombra derruba as outras? | 1min45 | `videos/46-sombra-solar/video.mp4` |
+| 47 | Disjuntor caiu e não volta: o que fazer | 1min41 | `videos/47-disjuntor-nao-volta/video.mp4` |
+| 48 | Ar-condicionado inverter compensa? | 1min42 | `videos/48-ar-inverter/video.mp4` |
+| 49 | Geladeira: 5 erros que aumentam a conta | 1min41 | `videos/49-geladeira-erros/video.mp4` |
 
 ## Não encontrados no container
 Nenhum.
