@@ -1,0 +1,76 @@
+﻿Codigo;Categoria;Numero;Tema;Pasta;Slides;Fontes
+EK-01-01;QUEM É ESSE COMPONENTE?;1;Disjuntor termomagnético;01_Quem_e_esse_componente/01_Disjuntor_termomagnetico;4;https://www.se.com/br/pt/faqs/FA146150/
+EK-01-02;QUEM É ESSE COMPONENTE?;2;Interruptor DR;01_Quem_e_esse_componente/02_Interruptor_DR;4;https://www.se.com/br/pt/faqs/FA159992/ | https://blog.se.com/br/eletrica/2016/12/15/dispositivo-dr-protecao-eletrica/
+EK-01-03;QUEM É ESSE COMPONENTE?;3;DPS;01_Quem_e_esse_componente/03_DPS;4;https://www.se.com/br/pt/work/local-content/dps-dispositivo-protecao-contra-surtos/
+EK-01-04;QUEM É ESSE COMPONENTE?;4;Contator;01_Quem_e_esse_componente/04_Contator;4;https://blog.se.com/br/eletrica/2022/06/14/o-que-e-um-contator-e-qual-sua-funcao/
+EK-01-05;QUEM É ESSE COMPONENTE?;5;Relé térmico;01_Quem_e_esse_componente/05_Rele_termico;4;https://productinfo.se.com/tesysgigainstallationguide/tesys-giga-series-giga-contactors-and-giga-thermal-overload-relays-installation-guide/Portuguese/TeSys%E2%84%A2%20Giga%20Series%20Giga%20Contactors%20and%20Giga%20Thermal%20Overload%20Relays%20Installation%20Guide_pt_0000737247.xml/%24/PanGu_Current-BasedProtectionFunctionsCPT_pt_0000737183
+EK-01-06;QUEM É ESSE COMPONENTE?;6;Fusível;01_Quem_e_esse_componente/06_Fusivel;4;https://blog.se.com/br/eletricistas/2021/06/14/principais-componentes-em-comandos-eletricos/
+EK-01-07;QUEM É ESSE COMPONENTE?;7;Transformador;01_Quem_e_esse_componente/07_Transformador;4;https://openstax.org/books/college-physics-2e/pages/23-7-transformers
+EK-01-08;QUEM É ESSE COMPONENTE?;8;Transformador de corrente;01_Quem_e_esse_componente/08_Transformador_de_corrente;4;https://institucional.taesa.com.br/wp-content/uploads/2018/11/INOVAEQ_Livro_Completo.pdf | https://www.tamurabrasil.com/pt-br/produtos/linha-de-transformadores-de-corrente-e-potencial
+EK-01-09;QUEM É ESSE COMPONENTE?;9;Relé temporizador;01_Quem_e_esse_componente/09_Rele_temporizador;4;https://www.se.com/br/pt/product/RE11RMMU/rel%C3%A9-temporizador-modular-8a-1naf-01s-100h-multifun%C3%A7%C3%A3o-24vcc-24-240vca/
+EK-01-10;QUEM É ESSE COMPONENTE?;10;Botão pulsador;01_Quem_e_esse_componente/10_Botao_pulsador;4;https://www.se.com/br/pt/product-subcategory/4810-botoeiras-de-comando/
+EK-01-11;QUEM É ESSE COMPONENTE?;11;Sinalizador luminoso;01_Quem_e_esse_componente/11_Sinalizador_luminoso;4;https://www.se.com/br/pt/work/products/master-ranges/harmony/
+EK-01-12;QUEM É ESSE COMPONENTE?;12;Borne de passagem;01_Quem_e_esse_componente/12_Borne_de_passagem;4;https://www.phoenixcontact.com/pt-br/produtos/reguas-de-bornes/bornes-de-passagem-bornes-de-varios-condutores-e-bornes-de-varios-niveis?p=11
+EK-01-13;QUEM É ESSE COMPONENTE?;13;Chave seletora;01_Quem_e_esse_componente/13_Chave_seletora;4;https://www.se.com/br/pt/work/products/master-ranges/harmony/
+EK-01-14;QUEM É ESSE COMPONENTE?;14;Chave seccionadora;01_Quem_e_esse_componente/14_Chave_seccionadora;4;https://www.se.com/br/pt/work/products/master-ranges/tesys/
+EK-01-15;QUEM É ESSE COMPONENTE?;15;Inversor de frequência;01_Quem_e_esse_componente/15_Inversor_de_frequencia;4;https://static.weg.net/medias/downloadcenter/hea/h59/WEG-CFW-ADV200-solutions-brochure-50138574-pt.pdf
+EK-02-01;PARA QUE SERVE?;1;Interruptor DR;02_Para_que_serve/01_Interruptor_DR;4;https://www.se.com/br/pt/faqs/FA159992/
+EK-02-02;PARA QUE SERVE?;2;DPS;02_Para_que_serve/02_DPS;4;https://www.se.com/br/pt/work/local-content/dps-dispositivo-protecao-contra-surtos/
+EK-02-03;PARA QUE SERVE?;3;Relé térmico;02_Para_que_serve/03_Rele_termico;4;https://productinfo.se.com/tesysgigainstallationguide/tesys-giga-series-giga-contactors-and-giga-thermal-overload-relays-installation-guide/Portuguese/TeSys%E2%84%A2%20Giga%20Series%20Giga%20Contactors%20and%20Giga%20Thermal%20Overload%20Relays%20Installation%20Guide_pt_0000737247.xml/%24/PanGu_Current-BasedProtectionFunctionsCPT_pt_0000737183
+EK-02-04;PARA QUE SERVE?;4;Chave seccionadora;02_Para_que_serve/04_Chave_seccionadora;4;https://www.se.com/br/pt/work/products/master-ranges/tesys/
+EK-02-05;PARA QUE SERVE?;5;Inversor solar;02_Para_que_serve/05_Inversor_solar;4;https://www.energy.gov/cmei/systems/solar-integration-inverters-and-grid-services-basics
+EK-02-06;PARA QUE SERVE?;6;Inversor de frequência;02_Para_que_serve/06_Inversor_de_frequencia;4;https://static.weg.net/medias/downloadcenter/hea/h59/WEG-CFW-ADV200-solutions-brochure-50138574-pt.pdf
+EK-02-07;PARA QUE SERVE?;7;Banco de capacitores;02_Para_que_serve/07_Banco_de_capacitores;4;https://www.weg.net/catalog/weg/BR/pt/Automa%C3%A7%C3%A3o-e-Controle-Industrial/Controls/Capacitores-e-Corre%C3%A7%C3%A3o-do-Fator-de-Pot%C3%AAncia/Capacitores-para-Corre%C3%A7%C3%A3o-do-Fator-de-Pot%C3%AAncia/Banco-de-Capacitores-Trif%C3%A1sicos-com-Prote%C3%A7%C3%A3o-BCWP/BANCO-CAPACITORES-BCWP30V53-F--V25/p/10073216 | https://static.weg.net/medias/downloadcenter/ha1/h2f/WEG-capacitores-para-correcao-do-fator-de-potencia-50009818-pt.pdf
+EK-02-08;PARA QUE SERVE?;8;Haste de aterramento;02_Para_que_serve/08_Haste_de_aterramento;4;https://media.fluke.com/bf453296-8376-458c-a86a-b106006e2539_original%20file.pdf
+EK-02-09;PARA QUE SERVE?;9;Barramento pente;02_Para_que_serve/09_Barramento_pente;4;https://www.se.com/br/pt/product-range/61714-barramento-pente-acti9/
+EK-02-10;PARA QUE SERVE?;10;Prensa-cabo;02_Para_que_serve/10_Prensa_cabo;4;https://www.phoenixcontact.com/pt-br/produtos/sistemas-de-entrada-de-cabos-e-prensa-cabos
+EK-02-11;PARA QUE SERVE?;11;Trilho DIN;02_Para_que_serve/11_Trilho_DIN;4;https://www.phoenixcontact.com/pt-br/produtos/acessorios-para-quadros-de-comando
+EK-02-12;PARA QUE SERVE?;12;Eletroduto;02_Para_que_serve/12_Eletroduto;4;https://www.tramontina.com.br/departamentos/reforma-e-construcao/materiais-eletricos/eletrodutos/
+EK-02-13;PARA QUE SERVE?;13;Conector de mola;02_Para_que_serve/13_Conector_de_mola;4;https://www.wago.com/br/conexao/conectores-de-emenda/linha221
+EK-02-14;PARA QUE SERVE?;14;Nobreak;02_Para_que_serve/14_Nobreak;4;https://www.se.com/br/pt/work/support/product-support/ups-buying-guide-for-selecting-a-battery-backup-system/
+EK-02-15;PARA QUE SERVE?;15;Transformador de isolação;02_Para_que_serve/15_Transformador_de_isolacao;4;https://static.weg.net/medias/downloadcenter/had/h2b/WEG-sistema-de-isolacao-e-aterramento-it-medico-50066322-catalogo-pt.pdf
+EK-03-01;MITO OU VERDADE?;1;Solar e calor;03_Mito_ou_verdade/01_Solar_e_calor;4;https://epe.gov.br/pt/abcdenergia/fontes-de-energia
+EK-03-02;MITO OU VERDADE?;2;Solar em dia nublado;03_Mito_ou_verdade/02_Solar_em_dia_nublado;4;https://support.enphase.com/s/article/can-my-system-produce-power-on-a-cloudy-day-en-ph | https://www.nesdis.noaa.gov/about/k-12-education/atmosphere/how-do-clouds-affect-solar-energy
+EK-03-03;MITO OU VERDADE?;3;Placa solar e bateria;03_Mito_ou_verdade/03_Placa_solar_e_bateria;4;https://www.energy.gov/cmei/systems/solar-integration-solar-energy-and-storage-basics
+EK-03-04;MITO OU VERDADE?;4;Solar e falta de rede;03_Mito_ou_verdade/04_Solar_e_falta_de_rede;4;https://www.energy.gov/cmei/systems/solar-and-resilience-basics | https://www.energy.gov/cmei/systems/solar-integration-inverters-and-grid-services-basics
+EK-03-05;MITO OU VERDADE?;5;Disjuntor e choque;03_Mito_ou_verdade/05_Disjuntor_e_choque;4;https://blog.se.com/br/eletrica/2022/06/03/5-dispositivos-essenciais-para-seguranca-eletrica/
+EK-03-06;MITO OU VERDADE?;6;DR e aterramento;03_Mito_ou_verdade/06_DR_e_aterramento;4;https://download.se.com/files?p_Doc_Ref=User_guide_electrician
+EK-03-07;MITO OU VERDADE?;7;DPS e para-raios;03_Mito_ou_verdade/07_DPS_e_para_raios;4;https://blog.se.com/br/eletrica/2014/08/14/protecao-contra-descargas-atmosfericas-raios/
+EK-03-08;MITO OU VERDADE?;8;Capacitor desligado;03_Mito_ou_verdade/08_Capacitor_desligado;4;https://www.fluke.com/en/learn/blog/digital-multimeters/how-to-measure-capacitance
+EK-03-09;MITO OU VERDADE?;9;Consumo em espera;03_Mito_ou_verdade/09_Consumo_em_espera;4;https://www.energy.gov/management/osp/earth-day-every-day-sustainable-practices-work-and-home
+EK-03-10;MITO OU VERDADE?;10;127 V ou 220 V;03_Mito_ou_verdade/10_127_V_ou_220_V;4;https://openstax.org/books/college-physics/pages/20-4-electric-power-and-energy
+EK-03-11;MITO OU VERDADE?;11;Espessura do cabo;03_Mito_ou_verdade/11_Espessura_do_cabo;4;https://br.prysmian.com/sites/br.prysmian.com/files/media/documents/Manual_Instalacoes_Eletricas.pdf
+EK-03-12;MITO OU VERDADE?;12;Conexão frouxa;03_Mito_ou_verdade/12_Conexao_frouxa;4;https://www.fluke.com/pt-pt/saber-mais/blog/termografia/detecao-de-pontos-quentes
+EK-03-13;MITO OU VERDADE?;13;Temperatura e cobre;03_Mito_ou_verdade/13_Temperatura_e_cobre;4;https://openstax.org/books/university-physics-volume-2/pages/9-3-resistivity-and-resistance
+EK-03-14;MITO OU VERDADE?;14;Tempo e consumo;03_Mito_ou_verdade/14_Tempo_e_consumo;4;https://openstax.org/books/physics/pages/19-4-electric-power
+EK-03-15;MITO OU VERDADE?;15;Alicate e corrente continua;03_Mito_ou_verdade/15_Alicate_e_corrente_continua;4;https://www.fluke.com/pt-br/produto/teste-eletrico/alicates-amperimetros/fluke-325
+EK-04-01;QUAL É A FERRAMENTA?;1;Multímetro;04_Qual_e_a_ferramenta/01_Multimetro;4;https://www.fluke.com/pt-br/produto/teste-eletrico/multimetros-digitais/179-imsk
+EK-04-02;QUAL É A FERRAMENTA?;2;Alicate amperímetro;04_Qual_e_a_ferramenta/02_Alicate_amperimetro;4;https://www.fluke.com/pt-br/produtos/teste-eletrico/alicates-amperimetros
+EK-04-03;QUAL É A FERRAMENTA?;3;Megômetro;04_Qual_e_a_ferramenta/03_Megometro;4;https://www.fluke.com/pt-br/produtos/teste-eletrico/testadores-de-isolamento
+EK-04-04;QUAL É A FERRAMENTA?;4;Terrômetro;04_Qual_e_a_ferramenta/04_Terrometro;4;https://www.fluke.com/pt-br/produto/teste-eletrico/aterramento/fluke-1625-2
+EK-04-05;QUAL É A FERRAMENTA?;5;Câmera termográfica;04_Qual_e_a_ferramenta/05_Camera_termografica;4;https://www.fluke.com/pt-br/produto/cameras-termicas/tir29
+EK-04-06;QUAL É A FERRAMENTA?;6;Osciloscópio;04_Qual_e_a_ferramenta/06_Osciloscopio;4;https://www.fluke.com/pt-br/saiba-mais/blog/osciloscopios/osciloscopio-vs-multimetro
+EK-04-07;QUAL É A FERRAMENTA?;7;Detector de tensão sem contato;04_Qual_e_a_ferramenta/07_Detector_de_tensao_sem_contato;4;https://www.fluke.com/pt-br/produto/teste-eletrico/testadores-basicos/fluke-1ac-ii | https://www.fluke.com/en-gb/learn/blog/electrical/part-1-electrical-testing-safety-preparing-for-absence-of-voltage-testing
+EK-04-08;QUAL É A FERRAMENTA?;8;Sequencímetro;04_Qual_e_a_ferramenta/08_Sequencimetro;4;https://www.fluke.com/pt-br/produto/teste-eletrico/testadores-basicos/fluke-9040
+EK-04-09;QUAL É A FERRAMENTA?;9;Luxímetro;04_Qual_e_a_ferramenta/09_Luximetro;4;https://www.minipa.com.br/images/Manual/MLM-1020-1100-BR.pdf
+EK-04-10;QUAL É A FERRAMENTA?;10;Alicate desencapador;04_Qual_e_a_ferramenta/10_Alicate_desencapador;4;https://www.knipex.com/pt-br/produtos/alicates-de-retirar-isolamento-e-ferramentas-de-retirar-a-capa/alicates-de-retirar-capa/alicates-de-retirar-capa/1342165
+EK-04-11;QUAL É A FERRAMENTA?;11;Alicate de crimpagem;04_Qual_e_a_ferramenta/11_Alicate_de_crimpagem;4;https://www.knipex.com/pt-br/produtos/alicates-de-crimpagem/alicates-de-crimpagem/alicates-de-crimpagem/9732240
+EK-04-12;QUAL É A FERRAMENTA?;12;Corta-cabos;04_Qual_e_a_ferramenta/12_Corta_cabos;4;https://www.knipex.com/products/cable-and-wire-rope-shears/cable-shears-with-twin-cutting-edge/cable-shears-twin-cutting-edge/9516200
+EK-04-13;QUAL É A FERRAMENTA?;13;Chave de torque;04_Qual_e_a_ferramenta/13_Chave_de_torque;4;https://digicat.wiha.com/gb/en/tools/torque-tools/wiha-itorque/torque-screwdriver-itorque/36887
+EK-04-14;QUAL É A FERRAMENTA?;14;Guia passa-fio;04_Qual_e_a_ferramenta/14_Guia_passa_fio;4;https://www.tramontina.com.br/passa-fio-tramontina-20-m/57499040.html
+EK-04-15;QUAL É A FERRAMENTA?;15;Ferro de solda;04_Qual_e_a_ferramenta/15_Ferro_de_solda;4;https://www.hakko.com/english/products/hakko_fx600.html
+EK-05-01;VOCÊ SABE A DIFERENÇA?;1;Tensão × corrente;05_Voce_sabe_a_diferenca/01_Tensao_x_corrente;4;https://openstax.org/books/physics/pages/19-key-equations
+EK-05-02;VOCÊ SABE A DIFERENÇA?;2;kW × kWh;05_Voce_sabe_a_diferenca/02_kW_x_kWh;4;https://openstax.org/books/physics/pages/19-4-electric-power
+EK-05-03;VOCÊ SABE A DIFERENÇA?;3;CA × CC;05_Voce_sabe_a_diferenca/03_CA_x_CC;4;https://openstax.org/books/college-physics-2e/pages/20-5-alternating-current-versus-direct-current
+EK-05-04;VOCÊ SABE A DIFERENÇA?;4;Disjuntor × fusível;05_Voce_sabe_a_diferenca/04_Disjuntor_x_fusivel;4;https://blog.se.com/br/eletricistas/2021/06/14/principais-componentes-em-comandos-eletricos/
+EK-05-05;VOCÊ SABE A DIFERENÇA?;5;IDR × DDR;05_Voce_sabe_a_diferenca/05_IDR_x_DDR;4;https://blog.se.com/br/eletrica/2016/12/15/dispositivo-dr-protecao-eletrica/
+EK-05-06;VOCÊ SABE A DIFERENÇA?;6;DPS × SPDA;05_Voce_sabe_a_diferenca/06_DPS_x_SPDA;4;https://blog.se.com/br/eletrica/2014/08/14/protecao-contra-descargas-atmosfericas-raios/
+EK-05-07;VOCÊ SABE A DIFERENÇA?;7;Neutro × terra;05_Voce_sabe_a_diferenca/07_Neutro_x_terra;4;https://download.se.com/files?p_Doc_Ref=User_guide_electrician
+EK-05-08;VOCÊ SABE A DIFERENÇA?;8;Série × paralelo;05_Voce_sabe_a_diferenca/08_Serie_x_paralelo;4;https://openstax.org/books/physics/pages/19-2-series-circuits | https://openstax.org/books/physics/pages/19-3-parallel-circuits
+EK-05-09;VOCÊ SABE A DIFERENÇA?;9;Monofásico × trifásico;05_Voce_sabe_a_diferenca/09_Monofasico_x_trifasico;4;https://www.fluke.com/en-in/learn/blog/power-quality/single-phase-vs-three-phase-power
+EK-05-10;VOCÊ SABE A DIFERENÇA?;10;Contator × relé térmico;05_Voce_sabe_a_diferenca/10_Contator_x_rele_termico;4;https://blog.se.com/br/eletrica/2022/06/14/o-que-e-um-contator-e-qual-sua-funcao/ | https://productinfo.se.com/tesysgigainstallationguide/tesys-giga-series-giga-contactors-and-giga-thermal-overload-relays-installation-guide/Portuguese/TeSys%E2%84%A2%20Giga%20Series%20Giga%20Contactors%20and%20Giga%20Thermal%20Overload%20Relays%20Installation%20Guide_pt_0000737247.xml/%24/PanGu_Current-BasedProtectionFunctionsCPT_pt_0000737183
+EK-05-11;VOCÊ SABE A DIFERENÇA?;11;Inversor solar × de frequência;05_Voce_sabe_a_diferenca/11_Inversor_solar_x_de_frequencia;4;https://www.energy.gov/cmei/systems/solar-integration-inverters-and-grid-services-basics | https://static.weg.net/medias/downloadcenter/hea/h59/WEG-CFW-ADV200-solutions-brochure-50138574-pt.pdf
+EK-05-12;VOCÊ SABE A DIFERENÇA?;12;Multímetro × megômetro;05_Voce_sabe_a_diferenca/12_Multimetro_x_megometro;4;https://www.fluke.com/pt-br/produtos/teste-eletrico/testadores-de-isolamento | https://www.fluke.com/pt-br/produto/teste-eletrico/multimetros-digitais/179-imsk
+EK-05-13;VOCÊ SABE A DIFERENÇA?;13;TC × TP;05_Voce_sabe_a_diferenca/13_TC_x_TP;4;https://www.tamurabrasil.com/pt-br/produtos/linha-de-transformadores-de-corrente-e-potencial | https://www.se.com/br/pt/faqs/FAQ000279527/
+EK-05-14;VOCÊ SABE A DIFERENÇA?;14;Sobrecarga × curto-circuito;05_Voce_sabe_a_diferenca/14_Sobrecarga_x_curto_circuito;4;https://www.se.com/br/pt/faqs/FA146150/
+EK-05-15;VOCÊ SABE A DIFERENÇA?;15;Solar fotovoltaico × térmico;05_Voce_sabe_a_diferenca/15_Solar_fotovoltaico_x_termico;4;https://epe.gov.br/pt/abcdenergia/fontes-de-energia

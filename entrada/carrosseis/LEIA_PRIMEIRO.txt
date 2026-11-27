@@ -1,0 +1,29 @@
+ELETRIK — 75 CARROSSÉIS / 300 ARTES
+
+75 carrosséis prontos, com 15 de cada categoria:
+01. Quem é esse componente?
+02. Para que serve?
+03. Mito ou verdade?
+04. Qual é a ferramenta?
+05. Você sabe a diferença?
+
+COMO USAR
+Cada carrossel está em sua própria pasta.
+Publique as quatro imagens na ordem: 01.jpg, 02.jpg, 03.jpg e 04.jpg.
+O último slide revela a resposta ou fecha a comparação.
+O arquivo Legenda.txt de cada pasta contém uma legenda pronta para copiar.
+
+FORMATO
+Imagens JPG, 1080 × 1350 pixels, proporção 4:5.
+Identidade EletriK em azul e laranja, com o logo do perfil.
+Ilustrações simplificadas de componentes e ferramentas.
+
+ÍNDICE E APOIO
+Na pasta 00_Indice_e_apoio:
+- Previa_01.jpg a Previa_05.jpg: visão das 15 capas de cada categoria.
+- Indice_75_Carrosseis.csv: relação completa de temas e pastas.
+- Legendas_75_Carrosseis.txt: todas as legendas reunidas.
+- Roteiros_75_Carrosseis.txt: textos dos quatro slides de cada carrossel.
+- Fontes_de_Apoio.txt e Fontes_por_Carrossel.csv: referências técnicas consultadas.
+
+Os arquivos CSV usam ponto e vírgula e podem ser abertos no Excel.

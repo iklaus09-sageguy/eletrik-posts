@@ -1,0 +1,200 @@
+ELETRIK — FONTES DE APOIO
+Consulta: 27/11/2026
+
+Textos autorais. Referências públicas de fabricantes, instituições de energia e material didático de física.
+O arquivo Fontes_por_Carrossel.csv relaciona cada tema às suas referências.
+
+01. Como funciona a proteção do disjuntor | Schneider Electric Brasil
+https://www.se.com/br/pt/faqs/FA146150/
+
+02. Funcionamento do Dispositivo de Corrente Residual (DDR/DR)? | Schneider Electric Brasil
+https://www.se.com/br/pt/faqs/FA159992/
+
+03. Dispositivo Diferencial Residual: o que é e como funciona?
+https://blog.se.com/br/eletrica/2016/12/15/dispositivo-dr-protecao-eletrica/
+
+04. DPS: o que é, classes e como dimensionar | Schneider | Schneider Electric Brasil
+https://www.se.com/br/pt/work/local-content/dps-dispositivo-protecao-contra-surtos/
+
+05. Contatores: para que servem e quais seus tipos? - Blog da Schneider Electric
+https://blog.se.com/br/eletrica/2022/06/14/o-que-e-um-contator-e-qual-sua-funcao/
+
+06. Funções de proteção baseadas em corrente - TeSys Giga Series Giga Contactors and Giga Thermal Overload Relays Installation Guide
+https://productinfo.se.com/tesysgigainstallationguide/tesys-giga-series-giga-contactors-and-giga-thermal-overload-relays-installation-guide/Portuguese/TeSys%E2%84%A2%20Giga%20Series%20Giga%20Contactors%20and%20Giga%20Thermal%20Overload%20Relays%20Installation%20Guide_pt_0000737247.xml/%24/PanGu_Current-BasedProtectionFunctionsCPT_pt_0000737183
+
+07. Comandos Elétricos: conheça os principais componentes - Blog da Schneider Electric
+https://blog.se.com/br/eletricistas/2021/06/14/principais-componentes-em-comandos-eletricos/
+
+08. 23.7 Transformers - College Physics 2e | OpenStax
+https://openstax.org/books/college-physics-2e/pages/23-7-transformers
+
+09. TAESA / INOVAEQ — Transformadores para instrumentos
+https://institucional.taesa.com.br/wp-content/uploads/2018/11/INOVAEQ_Livro_Completo.pdf
+
+10. Transformadores de Corrente e Potencial Tamura Brasil
+https://www.tamurabrasil.com/pt-br/produtos/linha-de-transformadores-de-corrente-e-potencial
+
+11. RE11RMMU - Relé temporizador modular, 8A, 1NAF, 0,1s...100h, multifunção, 24VCC / 24...240VCA | Schneider Electric Brasil
+https://www.se.com/br/pt/product/RE11RMMU/rel%C3%A9-temporizador-modular-8a-1naf-01s-100h-multifun%C3%A7%C3%A3o-24vcc-24-240vca/
+
+12. Botoeiras de Comando | Schneider Electric Brasil
+https://www.se.com/br/pt/product-subcategory/4810-botoeiras-de-comando/
+
+13. Linha principal Harmony | Schneider Electric Brasil
+https://www.se.com/br/pt/work/products/master-ranges/harmony/
+
+14. Bornes de passagem, bornes de vários condutores e bornes de vários níveis | Phoenix Contact
+https://www.phoenixcontact.com/pt-br/produtos/reguas-de-bornes/bornes-de-passagem-bornes-de-varios-condutores-e-bornes-de-varios-niveis?p=11
+
+15. TeSys Master Range | Schneider Electric Brasil
+https://www.se.com/br/pt/work/products/master-ranges/tesys/
+
+16. WEG — Soluções em acionamentos CFW / ADV200
+https://static.weg.net/medias/downloadcenter/hea/h59/WEG-CFW-ADV200-solutions-brochure-50138574-pt.pdf
+
+17. Solar Integration: Inverters and Grid Services Basics | Department of Energy
+https://www.energy.gov/cmei/systems/solar-integration-inverters-and-grid-services-basics
+
+18. BANCO CAPACITORES BCWP30V53 F -V25 | Banco de Capacitores Trifásicos com Proteção BCWP | Capacitores para Correção do Fator de Potência | Capacitores e Correção do Fator de Potência | Controls | Automação e Controle Industrial | WEG - Produtos
+https://www.weg.net/catalog/weg/BR/pt/Automa%C3%A7%C3%A3o-e-Controle-Industrial/Controls/Capacitores-e-Corre%C3%A7%C3%A3o-do-Fator-de-Pot%C3%AAncia/Capacitores-para-Corre%C3%A7%C3%A3o-do-Fator-de-Pot%C3%AAncia/Banco-de-Capacitores-Trif%C3%A1sicos-com-Prote%C3%A7%C3%A3o-BCWP/BANCO-CAPACITORES-BCWP30V53-F--V25/p/10073216
+
+19. BCW - Banco de Capacitores Trifásico Fixo
+https://static.weg.net/medias/downloadcenter/ha1/h2f/WEG-capacitores-para-correcao-do-fator-de-potencia-50009818-pt.pdf
+
+20. Resistência de Aterramento | Folhetos
+https://media.fluke.com/bf453296-8376-458c-a86a-b106006e2539_original%20file.pdf
+
+21. Barramento tipo pente | Schneider Electric Brasil
+https://www.se.com/br/pt/product-range/61714-barramento-pente-acti9/
+
+22. Passagem de cabo e prensa-cabos seguros | Phoenix Contact
+https://www.phoenixcontact.com/pt-br/produtos/sistemas-de-entrada-de-cabos-e-prensa-cabos
+
+23. Acessórios para quadros de comando | Phoenix Contact
+https://www.phoenixcontact.com/pt-br/produtos/acessorios-para-quadros-de-comando
+
+24. Black Friday Tramontina: Ofertas em Eletrodutos
+https://www.tramontina.com.br/departamentos/reforma-e-construcao/materiais-eletricos/eletrodutos/
+
+25. Instalações prediais com Conector de Emenda 221 | WAGO BR
+https://www.wago.com/br/conexao/conectores-de-emenda/linha221
+
+26. Guia de compra de nobreaks: Escolha a bateria reserva certa | Schneider Electric Brasil
+https://www.se.com/br/pt/work/support/product-support/ups-buying-guide-for-selecting-a-battery-backup-system/
+
+27. Transformador de separação IT TSW
+https://static.weg.net/medias/downloadcenter/had/h2b/WEG-sistema-de-isolacao-e-aterramento-it-medico-50066322-catalogo-pt.pdf
+
+28. FONTES DE ENERGIA
+https://epe.gov.br/pt/abcdenergia/fontes-de-energia
+
+29. Can my system produce power on a cloudy day? - Support | Enphase
+https://support.enphase.com/s/article/can-my-system-produce-power-on-a-cloudy-day-en-ph
+
+30. How Do Clouds Affect Solar Energy? | NESDIS | National Environmental Satellite, Data, and Information Service
+https://www.nesdis.noaa.gov/about/k-12-education/atmosphere/how-do-clouds-affect-solar-energy
+
+31. Solar Integration: Solar Energy and Storage Basics | Department of Energy
+https://www.energy.gov/cmei/systems/solar-integration-solar-energy-and-storage-basics
+
+32. Solar and Resilience Basics | Department of Energy
+https://www.energy.gov/cmei/systems/solar-and-resilience-basics
+
+33. 5 Dispositivos elétricos essenciais para segurança elétrica
+https://blog.se.com/br/eletrica/2022/06/03/5-dispositivos-essenciais-para-seguranca-eletrica/
+
+34. Schneider Electric — Manual do Eletricista
+https://download.se.com/files?p_Doc_Ref=User_guide_electrician
+
+35. Proteção contra descargas atmosféricas (raios) - Blog da Schneider Electric
+https://blog.se.com/br/eletrica/2014/08/14/protecao-contra-descargas-atmosfericas-raios/
+
+36. How to Measure Capacitance with a Digital Multimeter | Fluke
+https://www.fluke.com/en/learn/blog/digital-multimeters/how-to-measure-capacitance
+
+37. Earth Day, Every Day: Sustainable Practices for Work and Home | Department of Energy
+https://www.energy.gov/management/osp/earth-day-every-day-sustainable-practices-work-and-home
+
+38. 20.4 Electric Power and Energy - College Physics | OpenStax
+https://openstax.org/books/college-physics/pages/20-4-electric-power-and-energy
+
+39. Prysmian — Manual de Instalações Elétricas
+https://br.prysmian.com/sites/br.prysmian.com/files/media/documents/Manual_Instalacoes_Eletricas.pdf
+
+40. Deteção de pontos quentes com termografia | Fluke
+https://www.fluke.com/pt-pt/saber-mais/blog/termografia/detecao-de-pontos-quentes
+
+41. 9.3 Resistivity and Resistance - University Physics Volume 2 | OpenStax
+https://openstax.org/books/university-physics-volume-2/pages/9-3-resistivity-and-resistance
+
+42. 19.4 Electric Power - Physics | OpenStax
+https://openstax.org/books/physics/pages/19-4-electric-power
+
+43. Alicates Multímetros | Alicate Amperímetro True-RMS Fluke 325 | Fluke
+https://www.fluke.com/pt-br/produto/teste-eletrico/alicates-amperimetros/fluke-325
+
+44. Kit de serviço do Multímetro industrial: Multímetro Fluke 179 e Alicate amperímetro Fluke 323 | Fluke
+https://www.fluke.com/pt-br/produto/teste-eletrico/multimetros-digitais/179-imsk
+
+45. Alicates Amperímetros Fluke - 31 Modelos para Profissionais | Fluke
+https://www.fluke.com/pt-br/produtos/teste-eletrico/alicates-amperimetros
+
+46. Testadores de isolamento megômetros | Fluke
+https://www.fluke.com/pt-br/produtos/teste-eletrico/testadores-de-isolamento
+
+47. Testador de aterramento com AFC Fluke 1625-2 GEO | Fluke
+https://www.fluke.com/pt-br/produto/teste-eletrico/aterramento/fluke-1625-2
+
+48. Termógrafo De Diagnóstico De Construções Fluke TiR29, Termovisores | Fluke
+https://www.fluke.com/pt-br/produto/cameras-termicas/tir29
+
+49. Osciloscópio x Multímetro | Fluke
+https://www.fluke.com/pt-br/saiba-mais/blog/osciloscopios/osciloscopio-vs-multimetro
+
+50. Fluke 1AC II VoltAlert™ Electrical Tester | Fluke
+https://www.fluke.com/pt-br/produto/teste-eletrico/testadores-basicos/fluke-1ac-ii
+
+51. Part 1: Electrical testing safety - Preparing for absence of voltage testing | Fluke
+https://www.fluke.com/en-gb/learn/blog/electrical/part-1-electrical-testing-safety-preparing-for-absence-of-voltage-testing
+
+52. Indicador De Rotacao De Fases Fluke 9040, Testadores Elétricos | Fluke
+https://www.fluke.com/pt-br/produto/teste-eletrico/testadores-basicos/fluke-9040
+
+53. LUXÍMETRO DIGITAL
+https://www.minipa.com.br/images/Manual/MLM-1020-1100-BR.pdf
+
+54. Alicate de retirar capa | KNIPEX
+https://www.knipex.com/pt-br/produtos/alicates-de-retirar-isolamento-e-ferramentas-de-retirar-a-capa/alicates-de-retirar-capa/alicates-de-retirar-capa/1342165
+
+55. Alicate de crimpar | KNIPEX
+https://www.knipex.com/pt-br/produtos/alicates-de-crimpagem/alicates-de-crimpagem/alicates-de-crimpagem/9732240
+
+56. Cable Shears With twin cutting edge | KNIPEX
+https://www.knipex.com/products/cable-and-wire-rope-shears/cable-shears-with-twin-cutting-edge/cable-shears-twin-cutting-edge/9516200
+
+57. Torque screwdriver iTorque® | 36887 | 0.8 - 3 | 6 % | 36887
+https://digicat.wiha.com/gb/en/tools/torque-tools/wiha-itorque/torque-screwdriver-itorque/36887
+
+58. Passa Fio Tramontina 20 m de Qualidade em Promoção | Tramontina Store
+https://www.tramontina.com.br/passa-fio-tramontina-20-m/57499040.html
+
+59. HAKKO | HAKKO Corporation
+https://www.hakko.com/english/products/hakko_fx600.html
+
+60. Ch. 19 Key Equations - Physics | OpenStax
+https://openstax.org/books/physics/pages/19-key-equations
+
+61. 20.5 Alternating Current versus Direct Current - College Physics 2e | OpenStax
+https://openstax.org/books/college-physics-2e/pages/20-5-alternating-current-versus-direct-current
+
+62. 19.2 Series Circuits - Physics | OpenStax
+https://openstax.org/books/physics/pages/19-2-series-circuits
+
+63. 19.3 Parallel Circuits - Physics | OpenStax
+https://openstax.org/books/physics/pages/19-3-parallel-circuits
+
+64. Single-Phase vs. Three-Phase Power Explanation | Fluke
+https://www.fluke.com/en-in/learn/blog/power-quality/single-phase-vs-three-phase-power
+
+65. Configuração Básica do Sistema de Potência dos medidores PM5000 (CT/VT, Frequência, Rotação de Fase) | Schneider Electric Brasil
+https://www.se.com/br/pt/faqs/FAQ000279527/

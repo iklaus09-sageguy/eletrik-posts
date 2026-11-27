@@ -1,0 +1,1513 @@
+EK-01-01 | QUEM É ESSE COMPONENTE? | Disjuntor termomagnético
+
+=============================================================
+
+01 — QUEM É ESSE COMPONENTE?
+Pista 1: Entro em ação quando a corrente passa dos limites.
+
+02 — Pista 2: Tenho proteção contra sobrecarga e curto-circuito.
+
+03 — Pista 3: Após corrigir a causa do desarme, posso ser rearmado.
+
+04 — Resposta: Disjuntor termomagnético
+Interrompe o circuito diante de sobrecorrentes. Sua corrente nominal e sua curva precisam ser adequadas ao circuito.
+
+Fontes de apoio: https://www.se.com/br/pt/faqs/FA146150/
+
+
+
+
+
+EK-01-02 | QUEM É ESSE COMPONENTE? | Interruptor DR
+
+===================================================
+
+01 — QUEM É ESSE COMPONENTE?
+Pista 1: Comparo as correntes que entram e saem do circuito.
+
+02 — Pista 2: Posso atuar quando parte da corrente segue um caminho de fuga.
+
+03 — Pista 3: Sou conhecido pela sigla IDR e costumo ter um botão de teste.
+
+04 — Resposta: Interruptor DR
+Detecta corrente diferencial residual e desliga o circuito. O IDR precisa de proteção contra sobrecorrentes associada.
+
+Fontes de apoio: https://www.se.com/br/pt/faqs/FA159992/ | https://blog.se.com/br/eletrica/2016/12/15/dispositivo-dr-protecao-eletrica/
+
+
+
+
+
+EK-01-03 | QUEM É ESSE COMPONENTE? | DPS
+
+========================================
+
+01 — QUEM É ESSE COMPONENTE?
+Pista 1: Meu trabalho envolve picos rápidos de tensão.
+
+02 — Pista 2: Sou instalado para ajudar a proteger equipamentos contra surtos.
+
+03 — Pista 3: Minha sigla significa dispositivo de proteção contra surtos.
+
+04 — Resposta: DPS
+Limita sobretensões transitórias. Atua em conjunto com as demais medidas de proteção da instalação.
+
+Fontes de apoio: https://www.se.com/br/pt/work/local-content/dps-dispositivo-protecao-contra-surtos/
+
+
+
+
+
+EK-01-04 | QUEM É ESSE COMPONENTE? | Contator
+
+=============================================
+
+01 — QUEM É ESSE COMPONENTE?
+Pista 1: Sou muito comum no comando de motores.
+
+02 — Pista 2: Uma bobina comanda a abertura ou o fechamento dos meus contatos.
+
+03 — Pista 3: Tenho contatos de potência para manobrar a carga.
+
+04 — Resposta: Contator
+Permite ligar e desligar cargas por um circuito de comando. A proteção elétrica da carga exige dispositivos apropriados.
+
+Fontes de apoio: https://blog.se.com/br/eletrica/2022/06/14/o-que-e-um-contator-e-qual-sua-funcao/
+
+
+
+
+
+EK-01-05 | QUEM É ESSE COMPONENTE? | Relé térmico
+
+=================================================
+
+01 — QUEM É ESSE COMPONENTE?
+Pista 1: Sou parceiro frequente de um contator.
+
+02 — Pista 2: Meu ajuste acompanha as características do motor.
+
+03 — Pista 3: Atuo na proteção contra sobrecarga prolongada.
+
+04 — Resposta: Relé térmico
+Ao detectar uma sobrecarga, atua no circuito de comando para desligar o motor por meio do contator.
+
+Fontes de apoio: https://productinfo.se.com/tesysgigainstallationguide/tesys-giga-series-giga-contactors-and-giga-thermal-overload-relays-installation-guide/Portuguese/TeSys%E2%84%A2%20Giga%20Series%20Giga%20Contactors%20and%20Giga%20Thermal%20Overload%20Relays%20Installation%20Guide_pt_0000737247.xml/%24/PanGu_Current-BasedProtectionFunctionsCPT_pt_0000737183
+
+
+
+
+
+EK-01-06 | QUEM É ESSE COMPONENTE? | Fusível
+
+============================================
+
+01 — QUEM É ESSE COMPONENTE?
+Pista 1: Sou um dispositivo de proteção contra sobrecorrentes.
+
+02 — Pista 2: Tenho um elemento interno que se funde quando atuo.
+
+03 — Pista 3: Depois de atuar, preciso ser substituído por outro adequado.
+
+04 — Resposta: Fusível
+Interrompe a corrente pela fusão de seu elemento. A aplicação e a classe do fusível definem a proteção oferecida.
+
+Fontes de apoio: https://blog.se.com/br/eletricistas/2021/06/14/principais-componentes-em-comandos-eletricos/
+
+
+
+
+
+EK-01-07 | QUEM É ESSE COMPONENTE? | Transformador
+
+==================================================
+
+01 — QUEM É ESSE COMPONENTE?
+Pista 1: Meu funcionamento envolve um campo magnético variável.
+
+02 — Pista 2: Posso elevar ou reduzir uma tensão alternada.
+
+03 — Pista 3: Tenho enrolamentos conhecidos como primário e secundário.
+
+04 — Resposta: Transformador
+Transfere energia por indução eletromagnética. A relação entre os enrolamentos define a relação de transformação.
+
+Fontes de apoio: https://openstax.org/books/college-physics-2e/pages/23-7-transformers
+
+
+
+
+
+EK-01-08 | QUEM É ESSE COMPONENTE? | Transformador de corrente
+
+==============================================================
+
+01 — QUEM É ESSE COMPONENTE?
+Pista 1: Ajudo instrumentos a acompanhar correntes elevadas.
+
+02 — Pista 2: Entrego uma corrente secundária proporcional à corrente primária.
+
+03 — Pista 3: Sou conhecido por uma sigla de duas letras: TC.
+
+04 — Resposta: Transformador de corrente
+Adapta a corrente para instrumentos de medição e proteção. Não se deve abrir seu secundário com o primário energizado.
+
+Fontes de apoio: https://institucional.taesa.com.br/wp-content/uploads/2018/11/INOVAEQ_Livro_Completo.pdf | https://www.tamurabrasil.com/pt-br/produtos/linha-de-transformadores-de-corrente-e-potencial
+
+
+
+
+
+EK-01-09 | QUEM É ESSE COMPONENTE? | Relé temporizador
+
+======================================================
+
+01 — QUEM É ESSE COMPONENTE?
+Pista 1: Meu ajuste principal está ligado ao tempo.
+
+02 — Pista 2: Posso atrasar a mudança de estado de um contato.
+
+03 — Pista 3: Sou usado em sequências automáticas de comando.
+
+04 — Resposta: Relé temporizador
+Comanda contatos segundo uma função de tempo, como atraso na energização. A função depende do modelo e do ajuste.
+
+Fontes de apoio: https://www.se.com/br/pt/product/RE11RMMU/rel%C3%A9-temporizador-modular-8a-1naf-01s-100h-multifun%C3%A7%C3%A3o-24vcc-24-240vca/
+
+
+
+
+
+EK-01-10 | QUEM É ESSE COMPONENTE? | Botão pulsador
+
+===================================================
+
+01 — QUEM É ESSE COMPONENTE?
+Pista 1: Recebo um comando pelo toque da mão.
+
+02 — Pista 2: Posso enviar uma ordem para ligar ou parar uma máquina.
+
+03 — Pista 3: Na versão momentânea, volto à posição inicial quando sou solto.
+
+04 — Resposta: Botão pulsador
+Comanda contatos elétricos enquanto é acionado. Os contatos podem ser normalmente abertos ou normalmente fechados.
+
+Fontes de apoio: https://www.se.com/br/pt/product-subcategory/4810-botoeiras-de-comando/
+
+
+
+
+
+EK-01-11 | QUEM É ESSE COMPONENTE? | Sinalizador luminoso
+
+=========================================================
+
+01 — QUEM É ESSE COMPONENTE?
+Pista 1: Meu trabalho é comunicar visualmente.
+
+02 — Pista 2: Posso indicar máquina ligada, parada ou em falha.
+
+03 — Pista 3: Costumo aparecer como uma pequena luz na porta do painel.
+
+04 — Resposta: Sinalizador luminoso
+Usa luz para indicar uma condição do sistema. O significado de cada indicação é definido no projeto.
+
+Fontes de apoio: https://www.se.com/br/pt/work/products/master-ranges/harmony/
+
+
+
+
+
+EK-01-12 | QUEM É ESSE COMPONENTE? | Borne de passagem
+
+======================================================
+
+01 — QUEM É ESSE COMPONENTE?
+Pista 1: Ajudo a organizar as ligações dentro do painel.
+
+02 — Pista 2: Recebo condutores e ofereço pontos de conexão.
+
+03 — Pista 3: Muitas vezes sou montado ao lado de outros iguais em um trilho DIN.
+
+04 — Resposta: Borne de passagem
+Faz a conexão elétrica entre condutores e facilita a identificação e a organização das ligações.
+
+Fontes de apoio: https://www.phoenixcontact.com/pt-br/produtos/reguas-de-bornes/bornes-de-passagem-bornes-de-varios-condutores-e-bornes-de-varios-niveis?p=11
+
+
+
+
+
+EK-01-13 | QUEM É ESSE COMPONENTE? | Chave seletora
+
+===================================================
+
+01 — QUEM É ESSE COMPONENTE?
+Pista 1: Meu operador escolhe uma posição.
+
+02 — Pista 2: Posso selecionar modos como manual e automático.
+
+03 — Pista 3: Meu acionamento costuma ser feito girando um manípulo.
+
+04 — Resposta: Chave seletora
+Seleciona funções ou estados do circuito por meio de posições de comando. Existem versões fixas e com retorno.
+
+Fontes de apoio: https://www.se.com/br/pt/work/products/master-ranges/harmony/
+
+
+
+
+
+EK-01-14 | QUEM É ESSE COMPONENTE? | Chave seccionadora
+
+=======================================================
+
+01 — QUEM É ESSE COMPONENTE?
+Pista 1: Minha função principal envolve o seccionamento do circuito.
+
+02 — Pista 2: Sou comum em pontos de isolamento elétrico.
+
+03 — Pista 3: Meu nome lembra o ato de separar uma seção da instalação.
+
+04 — Resposta: Chave seccionadora
+Estabelece uma condição de isolamento elétrico. A capacidade de manobra sob carga depende do tipo e da especificação.
+
+Fontes de apoio: https://www.se.com/br/pt/work/products/master-ranges/tesys/
+
+
+
+
+
+EK-01-15 | QUEM É ESSE COMPONENTE? | Inversor de frequência
+
+===========================================================
+
+01 — QUEM É ESSE COMPONENTE?
+Pista 1: Sou muito usado no acionamento de motores.
+
+02 — Pista 2: Posso controlar aceleração e desaceleração.
+
+03 — Pista 3: Ajusto a frequência elétrica para controlar a velocidade do motor.
+
+04 — Resposta: Inversor de frequência
+Controla o acionamento de motores compatíveis variando a frequência e a tensão de saída conforme sua configuração.
+
+Fontes de apoio: https://static.weg.net/medias/downloadcenter/hea/h59/WEG-CFW-ADV200-solutions-brochure-50138574-pt.pdf
+
+
+
+
+
+EK-02-01 | PARA QUE SERVE? | Interruptor DR
+
+===========================================
+
+01 — Para que serve? Interruptor DR
+
+02 — Qual é a função do interruptor DR?
+A) Aumentar a potência disponível
+B) Detectar corrente diferencial residual
+C) Armazenar energia elétrica
+
+03 — Pista: Ele compara as correntes que entram e saem do circuito.
+
+04 — Alternativa B: Detectar fugas de corrente
+Quando o desequilíbrio supera seu limite de atuação, o IDR desliga o circuito. Atua como parte da proteção contra choques.
+
+Fontes de apoio: https://www.se.com/br/pt/faqs/FA159992/
+
+
+
+
+
+EK-02-02 | PARA QUE SERVE? | DPS
+
+================================
+
+01 — Para que serve? DPS
+
+02 — O que o DPS faz no quadro?
+A) Limita sobretensões transitórias
+B) Mede o consumo mensal
+C) Controla a velocidade do motor
+
+03 — Pista: Pense nos picos de tensão causados por descargas atmosféricas ou manobras.
+
+04 — Alternativa A: Limitar surtos de tensão
+O DPS ajuda a limitar sobretensões rápidas que podem danificar equipamentos. Sua seleção depende da instalação.
+
+Fontes de apoio: https://www.se.com/br/pt/work/local-content/dps-dispositivo-protecao-contra-surtos/
+
+
+
+
+
+EK-02-03 | PARA QUE SERVE? | Relé térmico
+
+=========================================
+
+01 — Para que serve? Relé térmico
+
+02 — Para que serve o relé térmico?
+A) Resfriar o motor com ar
+B) Gerar uma tensão de comando
+C) Proteger o motor contra sobrecarga
+
+03 — Pista: Ele acompanha o efeito de uma corrente excessiva ao longo do tempo.
+
+04 — Alternativa C: Proteger contra sobrecarga
+Em uma partida com contator, o relé atua no comando para desligar o motor. A proteção contra curto-circuito é complementar.
+
+Fontes de apoio: https://productinfo.se.com/tesysgigainstallationguide/tesys-giga-series-giga-contactors-and-giga-thermal-overload-relays-installation-guide/Portuguese/TeSys%E2%84%A2%20Giga%20Series%20Giga%20Contactors%20and%20Giga%20Thermal%20Overload%20Relays%20Installation%20Guide_pt_0000737247.xml/%24/PanGu_Current-BasedProtectionFunctionsCPT_pt_0000737183
+
+
+
+
+
+EK-02-04 | PARA QUE SERVE? | Chave seccionadora
+
+===============================================
+
+01 — Para que serve? Chave seccionadora
+
+02 — Para que serve uma seccionadora?
+A) Armazenar energia
+B) Isolar eletricamente uma parte do circuito
+C) Corrigir o fator de potência
+
+03 — Pista: Seu nome está ligado à separação de uma seção da instalação.
+
+04 — Alternativa B: Seccionar e isolar
+É destinada ao seccionamento elétrico. A operação sob carga só é permitida quando o dispositivo possui essa capacidade especificada.
+
+Fontes de apoio: https://www.se.com/br/pt/work/products/master-ranges/tesys/
+
+
+
+
+
+EK-02-05 | PARA QUE SERVE? | Inversor solar
+
+===========================================
+
+01 — Para que serve? Inversor solar
+
+02 — Qual é a função do inversor solar?
+A) Converter corrente contínua em alternada
+B) Guardar toda a energia para a noite
+C) Produzir luz para os módulos
+
+03 — Pista: Os módulos fotovoltaicos e a instalação em CA usam formas diferentes de corrente.
+
+04 — Alternativa A: Converter CC em CA
+Converte a energia elétrica em corrente contínua dos módulos em corrente alternada compatível com o sistema atendido.
+
+Fontes de apoio: https://www.energy.gov/cmei/systems/solar-integration-inverters-and-grid-services-basics
+
+
+
+
+
+EK-02-06 | PARA QUE SERVE? | Inversor de frequência
+
+===================================================
+
+01 — Para que serve? Inversor de frequência
+
+02 — Para que serve o inversor de frequência?
+A) Medir a resistência de terra
+B) Aquecer a água de um reservatório
+C) Controlar o acionamento do motor
+
+03 — Pista: Ele pode ajustar a frequência e a tensão que chegam ao motor.
+
+04 — Alternativa C: Controlar o motor
+Permite controlar a velocidade e as rampas de aceleração e desaceleração de motores compatíveis.
+
+Fontes de apoio: https://static.weg.net/medias/downloadcenter/hea/h59/WEG-CFW-ADV200-solutions-brochure-50138574-pt.pdf
+
+
+
+
+
+EK-02-07 | PARA QUE SERVE? | Banco de capacitores
+
+=================================================
+
+01 — Para que serve? Banco de capacitores
+
+02 — Para que serve um banco de capacitores?
+A) Aumentar a energia gerada pelo medidor
+B) Corrigir o fator de potência
+C) Substituir o aterramento
+
+03 — Pista: Ele pode fornecer parte da potência reativa exigida por cargas indutivas.
+
+04 — Alternativa B: Corrigir o fator de potência
+Compensa potência reativa conforme o projeto. O dimensionamento considera as cargas, a operação e a presença de harmônicas.
+
+Fontes de apoio: https://www.weg.net/catalog/weg/BR/pt/Automa%C3%A7%C3%A3o-e-Controle-Industrial/Controls/Capacitores-e-Corre%C3%A7%C3%A3o-do-Fator-de-Pot%C3%AAncia/Capacitores-para-Corre%C3%A7%C3%A3o-do-Fator-de-Pot%C3%AAncia/Banco-de-Capacitores-Trif%C3%A1sicos-com-Prote%C3%A7%C3%A3o-BCWP/BANCO-CAPACITORES-BCWP30V53-F--V25/p/10073216 | https://static.weg.net/medias/downloadcenter/ha1/h2f/WEG-capacitores-para-correcao-do-fator-de-potencia-50009818-pt.pdf
+
+
+
+
+
+EK-02-08 | PARA QUE SERVE? | Haste de aterramento
+
+=================================================
+
+01 — Para que serve? Haste de aterramento
+
+02 — Qual é a função da haste de aterramento?
+A) Estabelecer contato elétrico com o solo
+B) Servir como fio neutro
+C) Aumentar a potência da tomada
+
+03 — Pista: Ela é um dos possíveis eletrodos de um sistema de aterramento.
+
+04 — Alternativa A: Conectar o sistema ao solo
+Integra o sistema de aterramento. Uma haste isolada, por si só, não garante a segurança de toda a instalação.
+
+Fontes de apoio: https://media.fluke.com/bf453296-8376-458c-a86a-b106006e2539_original%20file.pdf
+
+
+
+
+
+EK-02-09 | PARA QUE SERVE? | Barramento pente
+
+=============================================
+
+01 — Para que serve? Barramento pente
+
+02 — Para que serve o barramento pente?
+A) Detectar fuga de corrente
+B) Medir a tensão do circuito
+C) Distribuir alimentação entre dispositivos
+
+03 — Pista: É uma forma organizada de alimentar dispositivos modulares compatíveis.
+
+04 — Alternativa C: Distribuir a alimentação
+Interliga a alimentação de dispositivos compatíveis no quadro. Corrente nominal, número de fases e encaixes devem ser adequados.
+
+Fontes de apoio: https://www.se.com/br/pt/product-range/61714-barramento-pente-acti9/
+
+
+
+
+
+EK-02-10 | PARA QUE SERVE? | Prensa-cabo
+
+========================================
+
+01 — Para que serve? Prensa-cabo
+
+02 — Qual é a função do prensa-cabo?
+A) Medir a corrente do cabo
+B) Fixar e vedar a entrada do cabo
+C) Transformar corrente contínua em alternada
+
+03 — Pista: Ele aparece onde o cabo atravessa a parede de uma caixa ou painel.
+
+04 — Alternativa B: Fixar e vedar a passagem
+Ajuda na fixação e na vedação da entrada do cabo. O desempenho depende do modelo, do diâmetro do cabo e da montagem.
+
+Fontes de apoio: https://www.phoenixcontact.com/pt-br/produtos/sistemas-de-entrada-de-cabos-e-prensa-cabos
+
+
+
+
+
+EK-02-11 | PARA QUE SERVE? | Trilho DIN
+
+=======================================
+
+01 — Para que serve? Trilho DIN
+
+02 — Para que serve o trilho DIN?
+A) Servir de suporte para dispositivos
+B) Substituir o disjuntor geral
+C) Armazenar energia no painel
+
+03 — Pista: Disjuntores, bornes e outros dispositivos podem se encaixar nele.
+
+04 — Alternativa A: Fixar e organizar dispositivos
+É um suporte padronizado para montagem de dispositivos compatíveis em painéis e quadros.
+
+Fontes de apoio: https://www.phoenixcontact.com/pt-br/produtos/acessorios-para-quadros-de-comando
+
+
+
+
+
+EK-02-12 | PARA QUE SERVE? | Eletroduto
+
+=======================================
+
+01 — Para que serve? Eletroduto
+
+02 — Para que serve o eletroduto?
+A) Aumentar a tensão dos condutores
+B) Produzir energia para o circuito
+C) Acomodar e proteger os condutores
+
+03 — Pista: Ele define o caminho físico por onde passam os fios e cabos.
+
+04 — Alternativa C: Acomodar e proteger
+Conduz e oferece proteção mecânica aos condutores conforme seu tipo e aplicação. O dimensionamento considera a ocupação e a instalação.
+
+Fontes de apoio: https://www.tramontina.com.br/departamentos/reforma-e-construcao/materiais-eletricos/eletrodutos/
+
+
+
+
+
+EK-02-13 | PARA QUE SERVE? | Conector de mola
+
+=============================================
+
+01 — Para que serve? Conector de mola
+
+02 — Para que serve um conector de mola?
+A) Proteger automaticamente contra curto
+B) Conectar condutores compatíveis
+C) Medir a energia consumida
+
+03 — Pista: Seu mecanismo mantém pressão no ponto de contato elétrico.
+
+04 — Alternativa B: Conectar condutores
+Realiza conexões elétricas dentro dos limites do produto. Tipo e seção do condutor precisam ser compatíveis.
+
+Fontes de apoio: https://www.wago.com/br/conexao/conectores-de-emenda/linha221
+
+
+
+
+
+EK-02-14 | PARA QUE SERVE? | Nobreak
+
+====================================
+
+01 — Para que serve? Nobreak
+
+02 — Qual é a função principal de um nobreak?
+A) Manter cargas alimentadas por um período
+B) Gerar energia sem uma fonte
+C) Eliminar a necessidade de proteção elétrica
+
+03 — Pista: Ele usa energia armazenada para atravessar interrupções, dentro da sua capacidade.
+
+04 — Alternativa A: Oferecer alimentação de reserva
+Mantém cargas compatíveis alimentadas por uma autonomia limitada. Essa autonomia depende da carga e das baterias.
+
+Fontes de apoio: https://www.se.com/br/pt/work/support/product-support/ups-buying-guide-for-selecting-a-battery-backup-system/
+
+
+
+
+
+EK-02-15 | PARA QUE SERVE? | Transformador de isolação
+
+======================================================
+
+01 — Para que serve? Transformador de isolação
+
+02 — Para que serve um transformador de isolação?
+A) Converter CA em CC sozinho
+B) Eliminar qualquer possibilidade de choque
+C) Separar eletricamente dois circuitos
+
+03 — Pista: Seus enrolamentos primário e secundário são eletricamente separados.
+
+04 — Alternativa C: Oferecer separação galvânica
+Transfere energia por indução entre enrolamentos separados. Sua presença não elimina todos os riscos de choque.
+
+Fontes de apoio: https://static.weg.net/medias/downloadcenter/had/h2b/WEG-sistema-de-isolacao-e-aterramento-it-medico-50066322-catalogo-pt.pdf
+
+
+
+
+
+EK-03-01 | MITO OU VERDADE? | Solar e calor
+
+===========================================
+
+01 — Mito ou verdade?
+Placa solar precisa de calor para gerar energia.
+
+02 — Pense nisso: Pense no que chega ao módulo: luz ou apenas temperatura?
+
+03 — Fotovoltaico e aquecimento solar são tecnologias diferentes.
+
+04 — MITO
+Módulos fotovoltaicos convertem luz em eletricidade. Calor não é o combustível da geração fotovoltaica.
+
+Fontes de apoio: https://epe.gov.br/pt/abcdenergia/fontes-de-energia
+
+
+
+
+
+EK-03-02 | MITO OU VERDADE? | Solar em dia nublado
+
+==================================================
+
+01 — Mito ou verdade?
+Placas solares podem gerar energia em dias nublados.
+
+02 — Pense nisso: Mesmo com nuvens, parte da luz solar ainda chega à superfície.
+
+03 — O nível de geração muda com a irradiância disponível.
+
+04 — VERDADE
+A geração pode continuar com a luz difusa, geralmente em nível menor. Nuvens densas e sombreamento reduzem a produção.
+
+Fontes de apoio: https://support.enphase.com/s/article/can-my-system-produce-power-on-a-cloudy-day-en-ph | https://www.nesdis.noaa.gov/about/k-12-education/atmosphere/how-do-clouds-affect-solar-energy
+
+
+
+
+
+EK-03-03 | MITO OU VERDADE? | Placa solar e bateria
+
+===================================================
+
+01 — Mito ou verdade?
+A própria placa solar guarda energia para usar à noite.
+
+02 — Pense nisso: Gerar energia e armazenar energia são funções diferentes.
+
+03 — Pense em qual equipamento realmente faz o armazenamento.
+
+04 — MITO
+O módulo fotovoltaico gera eletricidade quando recebe luz. O armazenamento, quando existe, é feito por baterias ou outro sistema específico.
+
+Fontes de apoio: https://www.energy.gov/cmei/systems/solar-integration-solar-energy-and-storage-basics
+
+
+
+
+
+EK-03-04 | MITO OU VERDADE? | Solar e falta de rede
+
+===================================================
+
+01 — Mito ou verdade?
+Um sistema solar on-grid comum continua ligado quando falta a rede.
+
+02 — Pense nisso: A proteção anti-ilhamento faz parte do funcionamento desse sistema.
+
+03 — Ter módulos no telhado não significa ter alimentação de reserva.
+
+04 — MITO
+O on-grid convencional desliga na falta da rede. Alimentação de reserva exige uma solução compatível, projetada para essa função.
+
+Fontes de apoio: https://www.energy.gov/cmei/systems/solar-and-resilience-basics | https://www.energy.gov/cmei/systems/solar-integration-inverters-and-grid-services-basics
+
+
+
+
+
+EK-03-05 | MITO OU VERDADE? | Disjuntor e choque
+
+================================================
+
+01 — Mito ou verdade?
+Um disjuntor comum protege contra qualquer choque elétrico.
+
+02 — Pense nisso: Ele responde a sobrecorrentes. Um choque pode ocorrer com correntes muito menores.
+
+03 — As medidas de proteção contra choques precisam trabalhar em conjunto.
+
+04 — MITO
+O disjuntor termomagnético protege contra sobrecarga e curto-circuito. A proteção contra choques inclui outras medidas, como DR e aterramento.
+
+Fontes de apoio: https://blog.se.com/br/eletrica/2022/06/03/5-dispositivos-essenciais-para-seguranca-eletrica/
+
+
+
+
+
+EK-03-06 | MITO OU VERDADE? | DR e aterramento
+
+==============================================
+
+01 — Mito ou verdade?
+Instalar um DR dispensa o aterramento.
+
+02 — Pense nisso: São medidas de proteção com funções diferentes.
+
+03 — A presença de um dispositivo não elimina as demais exigências da instalação.
+
+04 — MITO
+O DR e o aterramento se complementam. O projeto de proteção contra choques precisa considerar o conjunto da instalação.
+
+Fontes de apoio: https://download.se.com/files?p_Doc_Ref=User_guide_electrician
+
+
+
+
+
+EK-03-07 | MITO OU VERDADE? | DPS e para-raios
+
+==============================================
+
+01 — Mito ou verdade?
+DPS e para-raios são a mesma coisa.
+
+02 — Pense nisso: Um atua nas linhas elétricas; o outro integra a proteção da estrutura.
+
+03 — A proteção externa e a proteção contra surtos precisam ser coordenadas.
+
+04 — MITO
+O DPS limita sobretensões nas linhas. O SPDA conduz correntes de descargas atmosféricas por caminhos projetados na estrutura.
+
+Fontes de apoio: https://blog.se.com/br/eletrica/2014/08/14/protecao-contra-descargas-atmosfericas-raios/
+
+
+
+
+
+EK-03-08 | MITO OU VERDADE? | Capacitor desligado
+
+=================================================
+
+01 — Mito ou verdade?
+Um capacitor pode manter carga depois que o equipamento é desligado.
+
+02 — Pense nisso: Esse componente é capaz de armazenar energia em um campo elétrico.
+
+03 — Desligar a alimentação não garante que toda a energia interna desapareceu.
+
+04 — VERDADE
+Dependendo do circuito, a carga pode permanecer por algum tempo. O equipamento pode continuar perigoso mesmo após ser desligado.
+
+Fontes de apoio: https://www.fluke.com/en/learn/blog/digital-multimeters/how-to-measure-capacitance
+
+
+
+
+
+EK-03-09 | MITO OU VERDADE? | Consumo em espera
+
+===============================================
+
+01 — Mito ou verdade?
+Alguns aparelhos consomem energia mesmo em modo de espera.
+
+02 — Pense nisso: Relógios, receptores de controle remoto e circuitos internos podem continuar ativos.
+
+03 — O consumo depende do aparelho e do modo de operação.
+
+04 — VERDADE
+O modo standby pode manter circuitos alimentados. Ao longo do tempo, esse consumo também participa da energia medida.
+
+Fontes de apoio: https://www.energy.gov/management/osp/earth-day-every-day-sustainable-practices-work-and-home
+
+
+
+
+
+EK-03-10 | MITO OU VERDADE? | 127 V ou 220 V
+
+============================================
+
+01 — Mito ou verdade?
+Um aparelho em 220 V sempre gasta menos energia que um equivalente em 127 V.
+
+02 — Pense nisso: Compare potência, tempo de uso e eficiência dos aparelhos.
+
+03 — Uma corrente menor não significa, sozinha, menor consumo de energia.
+
+04 — MITO
+Para a mesma potência e o mesmo tempo, a energia consumida é a mesma. A tensão, sozinha, não determina a economia.
+
+Fontes de apoio: https://openstax.org/books/college-physics/pages/20-4-electric-power-and-energy
+
+
+
+
+
+EK-03-11 | MITO OU VERDADE? | Espessura do cabo
+
+===============================================
+
+01 — Mito ou verdade?
+Se o cabo parece mais grosso por fora, ele sempre tem mais cobre.
+
+02 — Pense nisso: A parte externa também inclui isolação e, em alguns cabos, cobertura.
+
+03 — Diâmetro externo e seção do condutor são medidas diferentes.
+
+04 — MITO
+A comparação deve considerar a seção nominal e a conformidade do cabo. A espessura externa, sozinha, não indica a quantidade de cobre.
+
+Fontes de apoio: https://br.prysmian.com/sites/br.prysmian.com/files/media/documents/Manual_Instalacoes_Eletricas.pdf
+
+
+
+
+
+EK-03-12 | MITO OU VERDADE? | Conexão frouxa
+
+============================================
+
+01 — Mito ou verdade?
+Uma conexão frouxa pode causar aquecimento.
+
+02 — Pense nisso: Uma conexão ruim pode aumentar a resistência de contato.
+
+03 — O aquecimento também depende da corrente que passa pelo ponto.
+
+04 — VERDADE
+A resistência de contato elevada pode gerar calor e danificar a conexão. O aperto deve seguir a especificação do fabricante.
+
+Fontes de apoio: https://www.fluke.com/pt-pt/saber-mais/blog/termografia/detecao-de-pontos-quentes
+
+
+
+
+
+EK-03-13 | MITO OU VERDADE? | Temperatura e cobre
+
+=================================================
+
+01 — Mito ou verdade?
+A resistência elétrica do cobre varia com a temperatura.
+
+02 — Pense nisso: As propriedades elétricas dos materiais não são totalmente fixas.
+
+03 — O comportamento térmico também importa nos condutores.
+
+04 — VERDADE
+Nas temperaturas usuais de operação, a resistência do cobre aumenta quando sua temperatura sobe.
+
+Fontes de apoio: https://openstax.org/books/university-physics-volume-2/pages/9-3-resistivity-and-resistance
+
+
+
+
+
+EK-03-14 | MITO OU VERDADE? | Tempo e consumo
+
+=============================================
+
+01 — Mito ou verdade?
+Com potência constante, dobrar o tempo de uso dobra a energia consumida.
+
+02 — Pense nisso: Energia elétrica consumida depende de potência e tempo.
+
+03 — A condição é manter a mesma potência durante todo o período.
+
+04 — VERDADE
+A relação é energia = potência × tempo. Um aparelho de 1 kW por 2 horas consome 2 kWh.
+
+Fontes de apoio: https://openstax.org/books/physics/pages/19-4-electric-power
+
+
+
+
+
+EK-03-15 | MITO OU VERDADE? | Alicate e corrente continua
+
+=========================================================
+
+01 — Mito ou verdade?
+Nem todo alicate amperímetro mede corrente contínua pela garra.
+
+02 — Pense nisso: As funções disponíveis dependem da tecnologia e do modelo.
+
+03 — Medição de tensão CC pelas pontas não garante medição de corrente CC pela garra.
+
+04 — VERDADE
+Alguns modelos medem apenas corrente alternada pela garra. A capacidade de medir corrente contínua deve constar na especificação.
+
+Fontes de apoio: https://www.fluke.com/pt-br/produto/teste-eletrico/alicates-amperimetros/fluke-325
+
+
+
+
+
+EK-04-01 | QUAL É A FERRAMENTA? | Multímetro
+
+============================================
+
+01 — QUAL É A FERRAMENTA?
+Pista 1: Sou um instrumento de medição com várias funções.
+
+02 — Pista 2: Posso medir tensão, resistência e outras grandezas, conforme o modelo.
+
+03 — Pista 3: Meu nome começa com “multi” e apareço muito na bancada.
+
+04 — Resposta: Multímetro
+Reúne diferentes funções de medição elétrica. As entradas, as faixas e a categoria de segurança variam entre modelos.
+
+Fontes de apoio: https://www.fluke.com/pt-br/produto/teste-eletrico/multimetros-digitais/179-imsk
+
+
+
+
+
+EK-04-02 | QUAL É A FERRAMENTA? | Alicate amperímetro
+
+=====================================================
+
+01 — QUAL É A FERRAMENTA?
+Pista 1: Tenho uma garra na parte superior.
+
+02 — Pista 2: Minha garra permite medir corrente sem abrir o circuito.
+
+03 — Pista 3: Sou um alicate, mas meu trabalho principal é medir.
+
+04 — Resposta: Alicate amperímetro
+Mede corrente pelo campo magnético associado ao condutor. A medição de corrente CA ou CC depende do modelo.
+
+Fontes de apoio: https://www.fluke.com/pt-br/produtos/teste-eletrico/alicates-amperimetros
+
+
+
+
+
+EK-04-03 | QUAL É A FERRAMENTA? | Megômetro
+
+===========================================
+
+01 — QUAL É A FERRAMENTA?
+Pista 1: Sou usado para avaliar a isolação elétrica.
+
+02 — Pista 2: Aplico uma tensão de ensaio e meço resistência de isolamento.
+
+03 — Pista 3: Meu nome lembra valores de resistência em megaohms.
+
+04 — Resposta: Megômetro
+Avalia a resistência de isolamento com uma tensão de teste apropriada. O ensaio exige circuito desenergizado e preparação adequada.
+
+Fontes de apoio: https://www.fluke.com/pt-br/produtos/teste-eletrico/testadores-de-isolamento
+
+
+
+
+
+EK-04-04 | QUAL É A FERRAMENTA? | Terrômetro
+
+============================================
+
+01 — QUAL É A FERRAMENTA?
+Pista 1: Sou usado na avaliação de sistemas de aterramento.
+
+02 — Pista 2: Posso trabalhar com estacas auxiliares, conforme o método.
+
+03 — Pista 3: Meu nome está diretamente ligado à terra.
+
+04 — Resposta: Terrômetro
+Mede resistência de aterramento por métodos específicos. Alguns modelos também avaliam a resistividade do solo.
+
+Fontes de apoio: https://www.fluke.com/pt-br/produto/teste-eletrico/aterramento/fluke-1625-2
+
+
+
+
+
+EK-04-05 | QUAL É A FERRAMENTA? | Câmera termográfica
+
+=====================================================
+
+01 — QUAL É A FERRAMENTA?
+Pista 1: Produzo uma imagem que uma câmera comum não mostra.
+
+02 — Pista 2: Ajudo a localizar diferenças de temperatura na superfície.
+
+03 — Pista 3: Meu trabalho usa radiação infravermelha.
+
+04 — Resposta: Câmera termográfica
+Transforma a radiação infravermelha detectada em uma imagem térmica. Ajuda na inspeção de aquecimentos e anomalias.
+
+Fontes de apoio: https://www.fluke.com/pt-br/produto/cameras-termicas/tir29
+
+
+
+
+
+EK-04-06 | QUAL É A FERRAMENTA? | Osciloscópio
+
+==============================================
+
+01 — QUAL É A FERRAMENTA?
+Pista 1: Exibo sinais elétricos em uma tela.
+
+02 — Pista 2: Mostro como um sinal varia ao longo do tempo.
+
+03 — Pista 3: Formas de onda são a minha especialidade.
+
+04 — Resposta: Osciloscópio
+Permite observar a forma de onda e características de sinais. Sondas e limites de medição precisam ser adequados à aplicação.
+
+Fontes de apoio: https://www.fluke.com/pt-br/saiba-mais/blog/osciloscopios/osciloscopio-vs-multimetro
+
+
+
+
+
+EK-04-07 | QUAL É A FERRAMENTA? | Detector de tensão sem contato
+
+================================================================
+
+01 — QUAL É A FERRAMENTA?
+Pista 1: Posso ter formato parecido com o de uma caneta.
+
+02 — Pista 2: Indico a presença de tensão alternada sem contato metálico direto.
+
+03 — Pista 3: Sou usado como recurso de detecção inicial.
+
+04 — Resposta: Detector de tensão sem contato
+Detecta tensão dentro das condições do fabricante. Sozinho, não comprova ausência de tensão nem substitui a verificação apropriada.
+
+Fontes de apoio: https://www.fluke.com/pt-br/produto/teste-eletrico/testadores-basicos/fluke-1ac-ii | https://www.fluke.com/en-gb/learn/blog/electrical/part-1-electrical-testing-safety-preparing-for-absence-of-voltage-testing
+
+
+
+
+
+EK-04-08 | QUAL É A FERRAMENTA? | Sequencímetro
+
+===============================================
+
+01 — QUAL É A FERRAMENTA?
+Pista 1: Sou usado em sistemas trifásicos.
+
+02 — Pista 2: Ajudo a identificar a ordem das fases.
+
+03 — Pista 3: Minha indicação é útil antes do acionamento de motores.
+
+04 — Resposta: Sequencímetro
+Indica a sequência de fases de uma alimentação trifásica. Também é conhecido como indicador de rotação de fases.
+
+Fontes de apoio: https://www.fluke.com/pt-br/produto/teste-eletrico/testadores-basicos/fluke-9040
+
+
+
+
+
+EK-04-09 | QUAL É A FERRAMENTA? | Luxímetro
+
+===========================================
+
+01 — QUAL É A FERRAMENTA?
+Pista 1: Meu sensor precisa receber luz.
+
+02 — Pista 2: Sou usado para avaliar a iluminação de ambientes.
+
+03 — Pista 3: Minha leitura costuma aparecer em lux.
+
+04 — Resposta: Luxímetro
+Mede iluminância: a quantidade de fluxo luminoso incidente por unidade de área. Sua unidade é o lux.
+
+Fontes de apoio: https://www.minipa.com.br/images/Manual/MLM-1020-1100-BR.pdf
+
+
+
+
+
+EK-04-10 | QUAL É A FERRAMENTA? | Alicate desencapador
+
+======================================================
+
+01 — QUAL É A FERRAMENTA?
+Pista 1: Trabalho na preparação de fios e cabos.
+
+02 — Pista 2: Retiro a isolação de uma parte do condutor.
+
+03 — Pista 3: Meu ajuste deve respeitar o tipo e a seção do fio.
+
+04 — Resposta: Alicate desencapador
+Remove a isolação para preparar a conexão. A ferramenta adequada ajuda a preservar os filamentos do condutor.
+
+Fontes de apoio: https://www.knipex.com/pt-br/produtos/alicates-de-retirar-isolamento-e-ferramentas-de-retirar-a-capa/alicates-de-retirar-capa/alicates-de-retirar-capa/1342165
+
+
+
+
+
+EK-04-11 | QUAL É A FERRAMENTA? | Alicate de crimpagem
+
+======================================================
+
+01 — QUAL É A FERRAMENTA?
+Pista 1: Uso pressão para formar uma conexão mecânica.
+
+02 — Pista 2: Trabalho com terminais e matrizes compatíveis.
+
+03 — Pista 3: Também sou conhecido como alicate de prensar terminais.
+
+04 — Resposta: Alicate de crimpagem
+Comprime o terminal sobre o condutor. O perfil da matriz, o terminal e a seção do cabo devem ser compatíveis.
+
+Fontes de apoio: https://www.knipex.com/pt-br/produtos/alicates-de-crimpagem/alicates-de-crimpagem/alicates-de-crimpagem/9732240
+
+
+
+
+
+EK-04-12 | QUAL É A FERRAMENTA? | Corta-cabos
+
+=============================================
+
+01 — QUAL É A FERRAMENTA?
+Pista 1: Minha função é seccionar fios e cabos.
+
+02 — Pista 2: Tenho lâminas desenvolvidas para esse tipo de corte.
+
+03 — Pista 3: O material e o tamanho do cabo definem minha capacidade.
+
+04 — Resposta: Corta-cabos
+Realiza cortes em cabos dentro da capacidade especificada. Nem todo modelo pode cortar aço ou qualquer tipo de condutor.
+
+Fontes de apoio: https://www.knipex.com/products/cable-and-wire-rope-shears/cable-shears-with-twin-cutting-edge/cable-shears-twin-cutting-edge/9516200
+
+
+
+
+
+EK-04-13 | QUAL É A FERRAMENTA? | Chave de torque
+
+=================================================
+
+01 — QUAL É A FERRAMENTA?
+Pista 1: Sou usada em aperto de conexões e fixadores.
+
+02 — Pista 2: Meu valor de trabalho costuma ser indicado em N·m.
+
+03 — Pista 3: Ajudo a aplicar um aperto controlado.
+
+04 — Resposta: Chave de torque
+Aplica um torque definido conforme o ajuste e a especificação. O valor correto depende do componente e do fabricante.
+
+Fontes de apoio: https://digicat.wiha.com/gb/en/tools/torque-tools/wiha-itorque/torque-screwdriver-itorque/36887
+
+
+
+
+
+EK-04-14 | QUAL É A FERRAMENTA? | Guia passa-fio
+
+================================================
+
+01 — QUAL É A FERRAMENTA?
+Pista 1: Percorro o caminho por dentro de um eletroduto.
+
+02 — Pista 2: Ajudo a levar os condutores de um ponto a outro.
+
+03 — Pista 3: Sou conhecida também como passa-cabo ou passa-fio.
+
+04 — Resposta: Guia passa-fio
+Auxilia a passagem de fios e cabos por eletrodutos. Existem modelos com diferentes materiais e comprimentos.
+
+Fontes de apoio: https://www.tramontina.com.br/passa-fio-tramontina-20-m/57499040.html
+
+
+
+
+
+EK-04-15 | QUAL É A FERRAMENTA? | Ferro de solda
+
+================================================
+
+01 — QUAL É A FERRAMENTA?
+Pista 1: Minha ponta atinge uma temperatura elevada.
+
+02 — Pista 2: Sou comum em bancadas de eletrônica.
+
+03 — Pista 3: Aqueço a região de união para permitir a soldagem.
+
+04 — Resposta: Ferro de solda
+Fornece calor para realizar juntas de solda. A ponta e a temperatura devem ser adequadas ao trabalho.
+
+Fontes de apoio: https://www.hakko.com/english/products/hakko_fx600.html
+
+
+
+
+
+EK-05-01 | VOCÊ SABE A DIFERENÇA? | Tensão × corrente
+
+=====================================================
+
+01 — Você sabe a diferença? Tensão × corrente
+
+02 — Tensão: É a diferença de potencial elétrico entre dois pontos. Sua unidade é o volt, símbolo V.
+
+03 — Corrente: É a taxa de passagem de carga elétrica. Sua unidade é o ampere, símbolo A.
+
+04 — Tensão se mede em volts. Corrente se mede em amperes.
+V e A representam grandezas diferentes.
+
+Fontes de apoio: https://openstax.org/books/physics/pages/19-key-equations
+
+
+
+
+
+EK-05-02 | VOCÊ SABE A DIFERENÇA? | kW × kWh
+
+============================================
+
+01 — Você sabe a diferença? kW × kWh
+
+02 — kW: É uma unidade de potência. Indica a taxa de uso ou fornecimento de energia.
+
+03 — kWh: É uma unidade de energia. Considera a potência ao longo do tempo.
+
+04 — kW indica potência. kWh indica energia.
+1 kW constante durante 2 horas corresponde a 2 kWh.
+
+Fontes de apoio: https://openstax.org/books/physics/pages/19-4-electric-power
+
+
+
+
+
+EK-05-03 | VOCÊ SABE A DIFERENÇA? | CA × CC
+
+===========================================
+
+01 — Você sabe a diferença? CA × CC
+
+02 — Corrente alternada: Seu sentido varia periodicamente. É a forma de corrente normalmente presente na rede elétrica.
+
+03 — Corrente contínua: Seu fluxo mantém um mesmo sentido. É encontrada em baterias e na saída dos módulos fotovoltaicos.
+
+04 — CA alterna o sentido. CC mantém um sentido.
+A tensão e a corrente podem variar de valor também em um circuito CC.
+
+Fontes de apoio: https://openstax.org/books/college-physics-2e/pages/20-5-alternating-current-versus-direct-current
+
+
+
+
+
+EK-05-04 | VOCÊ SABE A DIFERENÇA? | Disjuntor × fusível
+
+=======================================================
+
+01 — Você sabe a diferença? Disjuntor × fusível
+
+02 — Disjuntor: Interrompe sobrecorrentes por um mecanismo de disparo. Após corrigir a causa, pode ser rearmado.
+
+03 — Fusível: Interrompe a corrente pela fusão de seu elemento interno. Depois de atuar, precisa ser substituído.
+
+04 — O disjuntor pode ser rearmado. O fusível atuado é substituído.
+Ambos precisam ser selecionados para a aplicação.
+
+Fontes de apoio: https://blog.se.com/br/eletricistas/2021/06/14/principais-componentes-em-comandos-eletricos/
+
+
+
+
+
+EK-05-05 | VOCÊ SABE A DIFERENÇA? | IDR × DDR
+
+=============================================
+
+01 — Você sabe a diferença? IDR × DDR
+
+02 — IDR: O interruptor diferencial residual detecta corrente residual. Precisa de proteção contra sobrecorrentes associada.
+
+03 — DDR: O disjuntor diferencial residual combina proteção diferencial e proteção contra sobrecorrentes.
+
+04 — O DDR reúne funções que o IDR isolado não oferece.
+A identificação exata deve ser conferida no produto.
+
+Fontes de apoio: https://blog.se.com/br/eletrica/2016/12/15/dispositivo-dr-protecao-eletrica/
+
+
+
+
+
+EK-05-06 | VOCÊ SABE A DIFERENÇA? | DPS × SPDA
+
+==============================================
+
+01 — Você sabe a diferença? DPS × SPDA
+
+02 — DPS: Limita sobretensões transitórias nas linhas elétricas e de sinal, conforme seu tipo.
+
+03 — SPDA: O sistema de proteção contra descargas atmosféricas protege a estrutura por medidas e caminhos de corrente projetados.
+
+04 — O DPS atua nas linhas. O SPDA envolve a proteção da estrutura.
+As medidas precisam ser coordenadas no projeto.
+
+Fontes de apoio: https://blog.se.com/br/eletrica/2014/08/14/protecao-contra-descargas-atmosfericas-raios/
+
+
+
+
+
+EK-05-07 | VOCÊ SABE A DIFERENÇA? | Neutro × terra
+
+==================================================
+
+01 — Você sabe a diferença? Neutro × terra
+
+02 — Neutro: Pode conduzir corrente no funcionamento normal. Sua função está ligada ao circuito de alimentação.
+
+03 — Terra de proteção: O condutor de proteção conecta massas ao sistema de proteção. Não é destinado a conduzir a corrente normal da carga.
+
+04 — Neutro e terra de proteção têm funções diferentes.
+Um não deve ser usado como substituto do outro.
+
+Fontes de apoio: https://download.se.com/files?p_Doc_Ref=User_guide_electrician
+
+
+
+
+
+EK-05-08 | VOCÊ SABE A DIFERENÇA? | Série × paralelo
+
+====================================================
+
+01 — Você sabe a diferença? Série × paralelo
+
+02 — Ligação em série: Os elementos ficam no mesmo caminho de corrente. A corrente é a mesma em todos eles.
+
+03 — Ligação em paralelo: Os elementos ficam ligados aos mesmos dois nós. A tensão é a mesma em todos os ramos.
+
+04 — Em série: mesma corrente. Em paralelo: mesma tensão.
+A forma de ligação muda o comportamento do circuito.
+
+Fontes de apoio: https://openstax.org/books/physics/pages/19-2-series-circuits | https://openstax.org/books/physics/pages/19-3-parallel-circuits
+
+
+
+
+
+EK-05-09 | VOCÊ SABE A DIFERENÇA? | Monofásico × trifásico
+
+==========================================================
+
+01 — Você sabe a diferença? Monofásico × trifásico
+
+02 — Monofásico: Tem uma fase na alimentação. As tensões disponíveis dependem da rede e do esquema de ligação.
+
+03 — Trifásico: Tem três fases. Em um sistema equilibrado, elas são defasadas em 120 graus elétricos.
+
+04 — A diferença está no número de fases da alimentação.
+A presença de neutro depende do sistema adotado.
+
+Fontes de apoio: https://www.fluke.com/en-in/learn/blog/power-quality/single-phase-vs-three-phase-power
+
+
+
+
+
+EK-05-10 | VOCÊ SABE A DIFERENÇA? | Contator × relé térmico
+
+===========================================================
+
+01 — Você sabe a diferença? Contator × relé térmico
+
+02 — Contator: Manobra a carga: abre ou fecha seus contatos de potência a partir de um comando.
+
+03 — Relé térmico: Atua na proteção contra sobrecarga do motor e pode comandar o desligamento do contator.
+
+04 — O contator manobra. O relé térmico protege contra sobrecarga.
+Os dois aparecem juntos em muitas partidas de motores.
+
+Fontes de apoio: https://blog.se.com/br/eletrica/2022/06/14/o-que-e-um-contator-e-qual-sua-funcao/ | https://productinfo.se.com/tesysgigainstallationguide/tesys-giga-series-giga-contactors-and-giga-thermal-overload-relays-installation-guide/Portuguese/TeSys%E2%84%A2%20Giga%20Series%20Giga%20Contactors%20and%20Giga%20Thermal%20Overload%20Relays%20Installation%20Guide_pt_0000737247.xml/%24/PanGu_Current-BasedProtectionFunctionsCPT_pt_0000737183
+
+
+
+
+
+EK-05-11 | VOCÊ SABE A DIFERENÇA? | Inversor solar × de frequência
+
+==================================================================
+
+01 — Você sabe a diferença? Inversor solar × de frequência
+
+02 — Inversor solar: Converte a energia em CC dos módulos fotovoltaicos em CA para atender o sistema elétrico.
+
+03 — Inversor de frequência: Controla o acionamento de motores variando frequência e tensão de saída conforme a aplicação.
+
+04 — O nome é parecido. A aplicação principal é diferente.
+Eles não são substitutos diretos entre si.
+
+Fontes de apoio: https://www.energy.gov/cmei/systems/solar-integration-inverters-and-grid-services-basics | https://static.weg.net/medias/downloadcenter/hea/h59/WEG-CFW-ADV200-solutions-brochure-50138574-pt.pdf
+
+
+
+
+
+EK-05-12 | VOCÊ SABE A DIFERENÇA? | Multímetro × megômetro
+
+==========================================================
+
+01 — Você sabe a diferença? Multímetro × megômetro
+
+02 — Multímetro: Reúne várias funções, como medição de tensão e resistência, conforme o modelo.
+
+03 — Megômetro: Avalia resistência de isolamento aplicando uma tensão de ensaio especificada.
+
+04 — Medição comum de resistência e ensaio de isolamento são diferentes.
+Existem instrumentos que combinam as duas funções.
+
+Fontes de apoio: https://www.fluke.com/pt-br/produtos/teste-eletrico/testadores-de-isolamento | https://www.fluke.com/pt-br/produto/teste-eletrico/multimetros-digitais/179-imsk
+
+
+
+
+
+EK-05-13 | VOCÊ SABE A DIFERENÇA? | TC × TP
+
+===========================================
+
+01 — Você sabe a diferença? TC × TP
+
+02 — TC: O transformador de corrente fornece uma corrente proporcional à do circuito para instrumentos de medição ou proteção.
+
+03 — TP: O transformador de potencial fornece uma tensão proporcional à do circuito para instrumentos de medição ou proteção.
+
+04 — TC está ligado à corrente. TP está ligado à tensão.
+A relação de transformação precisa ser adequada ao instrumento.
+
+Fontes de apoio: https://www.tamurabrasil.com/pt-br/produtos/linha-de-transformadores-de-corrente-e-potencial | https://www.se.com/br/pt/faqs/FAQ000279527/
+
+
+
+
+
+EK-05-14 | VOCÊ SABE A DIFERENÇA? | Sobrecarga × curto-circuito
+
+===============================================================
+
+01 — Você sabe a diferença? Sobrecarga × curto-circuito
+
+02 — Sobrecarga: O circuito opera acima de sua capacidade de corrente, por exemplo pelo excesso de cargas conectadas.
+
+03 — Curto-circuito: Uma ligação acidental de baixa impedância pode produzir corrente muito elevada entre pontos do circuito.
+
+04 — São ocorrências diferentes que exigem proteção adequada.
+A corrente e o tempo de atuação fazem parte do estudo de proteção.
+
+Fontes de apoio: https://www.se.com/br/pt/faqs/FA146150/
+
+
+
+
+
+EK-05-15 | VOCÊ SABE A DIFERENÇA? | Solar fotovoltaico × térmico
+
+================================================================
+
+01 — Você sabe a diferença? Solar fotovoltaico × térmico
+
+02 — Solar fotovoltaico: Usa módulos para converter a luz solar diretamente em eletricidade.
+
+03 — Solar térmico: Aproveita a energia do Sol como calor, por exemplo para aquecer água.
+
+04 — Fotovoltaico gera eletricidade. Térmico aproveita calor.
+As duas tecnologias podem existir na mesma edificação.
+
+Fontes de apoio: https://epe.gov.br/pt/abcdenergia/fontes-de-energia
+
+
+
