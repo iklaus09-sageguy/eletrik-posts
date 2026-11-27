@@ -53,18 +53,23 @@ def salvar(fila):
 def sincronizar(fila):
     conhecidos = {i["pasta"] for i in fila}
     novos = []
-    for tipo, base, arquivo in (("video", "videos", "video.mp4"), ("imagem", "posts", "post.jpg")):
+    for tipo, base, arquivo in (("video", "videos", "video.mp4"), ("imagem", "posts", "post.jpg"),
+                                ("carrossel", "carrosseis", "01.jpg")):
         for pasta in sorted((ROOT / base).glob("*/")):
             rel = f"{base}/{pasta.name}"
             if rel in conhecidos or not (pasta / arquivo).exists() or not (pasta / "legenda.txt").exists():
                 continue
-            novos.append({"pasta": rel, "tipo": tipo, "arquivo": f"{rel}/{arquivo}", "status": "pendente"})
+            item = {"pasta": rel, "tipo": tipo, "arquivo": f"{rel}/{arquivo}", "status": "pendente"}
+            if tipo == "carrossel":
+                item["arquivo"] = rel
+            novos.append(item)
     fila.extend(novos)
     return novos
 
 
 def chave(texto):
-    return " ".join(texto.split())[:80]
+    t = " ".join(texto.split())
+    return t[:80] + "|" + t[-40:]
 
 
 def ja_publicados():
@@ -84,7 +89,27 @@ def legenda_de(item):
     return (ROOT / item["pasta"] / "legenda.txt").read_text().strip()
 
 
+def esperar(cid):
+    for _ in range(60):  # ate ~10 min de processamento
+        st = graph("GET", cid, {"fields": "status_code,status"})
+        if st.get("status_code") == "FINISHED":
+            return cid
+        if st.get("status_code") in ("ERROR", "EXPIRED"):
+            raise RuntimeError(f"processamento falhou: {st}")
+        time.sleep(5)
+    raise RuntimeError("processamento passou do limite")
+
+
 def criar_container(item, legenda):
+    if item["tipo"] == "carrossel":
+        slides = sorted((ROOT / item["pasta"]).glob("*.jpg"))[:10]
+        filhos = []
+        for sl in slides:
+            u = RAW + urllib.parse.quote(f"{item['pasta']}/{sl.name}")
+            c = graph("POST", f"{IG_USER}/media", {"image_url": u, "is_carousel_item": "true"})
+            filhos.append(esperar(c["id"]))
+        c = graph("POST", f"{IG_USER}/media", {"media_type": "CAROUSEL", "children": ",".join(filhos), "caption": legenda})
+        return esperar(c["id"])
     url = RAW + urllib.parse.quote(item["arquivo"])
     if item["tipo"] == "video":
         c = graph("POST", f"{IG_USER}/media", {"media_type": "REELS", "video_url": url, "caption": legenda, "share_to_feed": "true"})
@@ -130,6 +155,13 @@ def main():
             i["status"] = "publicado"
     candidatos = [i for i in fila if i["status"] in ("pendente", "erro")]
     candidatos.sort(key=lambda i: i["status"] == "erro")  # pendentes primeiro, erros antigos por ultimo
+    # Alternancia: execucao da manha (antes das 12h de Brasilia) publica video,
+    # a da tarde publica carrossel. Se faltar um tipo, usa o outro.
+    hora_br = (datetime.datetime.now(datetime.timezone.utc) - datetime.timedelta(hours=3)).hour
+    preferido = "video" if hora_br < 12 else "carrossel"
+    if "--tipo" in sys.argv:
+        preferido = sys.argv[sys.argv.index("--tipo") + 1]
+    candidatos.sort(key=lambda i: i["tipo"] != preferido)  # sort estavel: mantem a ordem dentro de cada grupo
     print("restantes na fila:", len(candidatos))
     if not candidatos:
         print("FILA VAZIA: nada para publicar")

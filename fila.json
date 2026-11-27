@@ -27,121 +27,121 @@
     "pasta": "videos/03-dr-desarmando",
     "tipo": "video",
     "arquivo": "videos/03-dr-desarmando/video.mp4",
-    "status": "pendente"
+    "status": "publicado"
   },
   {
     "pasta": "videos/04-chuveiro-resistencia",
     "tipo": "video",
     "arquivo": "videos/04-chuveiro-resistencia/video.mp4",
-    "status": "pendente"
+    "status": "publicado"
   },
   {
     "pasta": "videos/05-aterramento",
     "tipo": "video",
     "arquivo": "videos/05-aterramento/video.mp4",
-    "status": "pendente"
+    "status": "publicado"
   },
   {
     "pasta": "videos/06-extensao",
     "tipo": "video",
     "arquivo": "videos/06-extensao/video.mp4",
-    "status": "pendente"
+    "status": "publicado"
   },
   {
     "pasta": "videos/07-conta-de-luz",
     "tipo": "video",
     "arquivo": "videos/07-conta-de-luz/video.mp4",
-    "status": "pendente"
+    "status": "publicado"
   },
   {
     "pasta": "videos/08-lampada-piscando",
     "tipo": "video",
     "arquivo": "videos/08-lampada-piscando/video.mp4",
-    "status": "pendente"
+    "status": "publicado"
   },
   {
     "pasta": "videos/09-aluminio-cobre",
     "tipo": "video",
     "arquivo": "videos/09-aluminio-cobre/video.mp4",
-    "status": "pendente"
+    "status": "publicado"
   },
   {
     "pasta": "videos/10-primeiros-socorros-choque",
     "tipo": "video",
     "arquivo": "videos/10-primeiros-socorros-choque/video.mp4",
-    "status": "pendente"
+    "status": "publicado"
   },
   {
     "pasta": "videos/11-standby",
     "tipo": "video",
     "arquivo": "videos/11-standby/video.mp4",
-    "status": "pendente"
+    "status": "publicado"
   },
   {
     "pasta": "videos/12-choque-chuveiro",
     "tipo": "video",
     "arquivo": "videos/12-choque-chuveiro/video.mp4",
-    "status": "pendente"
+    "status": "publicado"
   },
   {
     "pasta": "videos/13-chuveiro-inverno-verao",
     "tipo": "video",
     "arquivo": "videos/13-chuveiro-inverno-verao/video.mp4",
-    "status": "pendente"
+    "status": "publicado"
   },
   {
     "pasta": "videos/14-cores-dos-fios",
     "tipo": "video",
     "arquivo": "videos/14-cores-dos-fios/video.mp4",
-    "status": "pendente"
+    "status": "publicado"
   },
   {
     "pasta": "videos/15-disjuntor-noite",
     "tipo": "video",
     "arquivo": "videos/15-disjuntor-noite/video.mp4",
-    "status": "pendente"
+    "status": "publicado"
   },
   {
     "pasta": "videos/16-dps",
     "tipo": "video",
     "arquivo": "videos/16-dps/video.mp4",
-    "status": "pendente"
+    "status": "publicado"
   },
   {
     "pasta": "videos/17-geladeira-velha",
     "tipo": "video",
     "arquivo": "videos/17-geladeira-velha/video.mp4",
-    "status": "pendente"
+    "status": "publicado"
   },
   {
     "pasta": "videos/18-lampada-led",
     "tipo": "video",
     "arquivo": "videos/18-lampada-led/video.mp4",
-    "status": "pendente"
+    "status": "publicado"
   },
   {
     "pasta": "videos/19-energia-solar",
     "tipo": "video",
     "arquivo": "videos/19-energia-solar/video.mp4",
-    "status": "pendente"
+    "status": "publicado"
   },
   {
     "pasta": "videos/20-ventilador-ar",
     "tipo": "video",
     "arquivo": "videos/20-ventilador-ar/video.mp4",
-    "status": "pendente"
+    "status": "publicado"
   },
   {
     "pasta": "videos/21-cozinha-eletrica",
     "tipo": "video",
     "arquivo": "videos/21-cozinha-eletrica/video.mp4",
-    "status": "pendente"
+    "status": "publicado"
   },
   {
     "pasta": "videos/22-disjuntor-bipolar",
     "tipo": "video",
     "arquivo": "videos/22-disjuntor-bipolar/video.mp4",
-    "status": "pendente"
+    "status": "publicado"
   },
   {
     "pasta": "videos/23-carro-eletrico",
@@ -201,6 +201,558 @@
     "pasta": "videos/32-ler-medidor",
     "tipo": "video",
     "arquivo": "videos/32-ler-medidor/video.mp4",
+    "status": "pendente"
+  },
+  {
+    "pasta": "videos/33-solar-bateria",
+    "tipo": "video",
+    "arquivo": "videos/33-solar-bateria/video.mp4",
+    "status": "pendente"
+  },
+  {
+    "pasta": "videos/34-solar-nublado",
+    "tipo": "video",
+    "arquivo": "videos/34-solar-nublado/video.mp4",
+    "status": "pendente"
+  },
+  {
+    "pasta": "videos/35-bomba-agua",
+    "tipo": "video",
+    "arquivo": "videos/35-bomba-agua/video.mp4",
+    "status": "pendente"
+  },
+  {
+    "pasta": "videos/36-pequenos-gastoes",
+    "tipo": "video",
+    "arquivo": "videos/36-pequenos-gastoes/video.mp4",
+    "status": "pendente"
+  },
+  {
+    "pasta": "videos/37-jardim-piscina",
+    "tipo": "video",
+    "arquivo": "videos/37-jardim-piscina/video.mp4",
+    "status": "pendente"
+  },
+  {
+    "pasta": "videos/38-solar-apagao",
+    "tipo": "video",
+    "arquivo": "videos/38-solar-apagao/video.mp4",
+    "status": "pendente"
+  },
+  {
+    "pasta": "videos/39-chuveiro-gas",
+    "tipo": "video",
+    "arquivo": "videos/39-chuveiro-gas/video.mp4",
+    "status": "pendente"
+  },
+  {
+    "pasta": "videos/40-tomada-10-20",
+    "tipo": "video",
+    "arquivo": "videos/40-tomada-10-20/video.mp4",
+    "status": "pendente"
+  },
+  {
+    "pasta": "videos/41-lampada-queima",
+    "tipo": "video",
+    "arquivo": "videos/41-lampada-queima/video.mp4",
+    "status": "pendente"
+  },
+  {
+    "pasta": "videos/42-quantas-placas",
+    "tipo": "video",
+    "arquivo": "videos/42-quantas-placas/video.mp4",
+    "status": "pendente"
+  },
+  {
+    "pasta": "videos/43-btus",
+    "tipo": "video",
+    "arquivo": "videos/43-btus/video.mp4",
+    "status": "pendente"
+  },
+  {
+    "pasta": "videos/44-quadro-reforma",
+    "tipo": "video",
+    "arquivo": "videos/44-quadro-reforma/video.mp4",
+    "status": "pendente"
+  },
+  {
+    "pasta": "videos/45-fusivel-disjuntor",
+    "tipo": "video",
+    "arquivo": "videos/45-fusivel-disjuntor/video.mp4",
+    "status": "pendente"
+  },
+  {
+    "pasta": "videos/46-sombra-solar",
+    "tipo": "video",
+    "arquivo": "videos/46-sombra-solar/video.mp4",
+    "status": "pendente"
+  },
+  {
+    "pasta": "videos/47-disjuntor-nao-volta",
+    "tipo": "video",
+    "arquivo": "videos/47-disjuntor-nao-volta/video.mp4",
+    "status": "pendente"
+  },
+  {
+    "pasta": "videos/48-ar-inverter",
+    "tipo": "video",
+    "arquivo": "videos/48-ar-inverter/video.mp4",
+    "status": "pendente"
+  },
+  {
+    "pasta": "videos/49-geladeira-erros",
+    "tipo": "video",
+    "arquivo": "videos/49-geladeira-erros/video.mp4",
+    "status": "pendente"
+  },
+  {
+    "pasta": "carrosseis/001-disjuntor-termomagnetico",
+    "tipo": "carrossel",
+    "arquivo": "carrosseis/001-disjuntor-termomagnetico",
+    "status": "pendente"
+  },
+  {
+    "pasta": "carrosseis/002-interruptor-dr",
+    "tipo": "carrossel",
+    "arquivo": "carrosseis/002-interruptor-dr",
+    "status": "pendente"
+  },
+  {
+    "pasta": "carrosseis/003-solar-e-calor",
+    "tipo": "carrossel",
+    "arquivo": "carrosseis/003-solar-e-calor",
+    "status": "pendente"
+  },
+  {
+    "pasta": "carrosseis/004-multimetro",
+    "tipo": "carrossel",
+    "arquivo": "carrosseis/004-multimetro",
+    "status": "pendente"
+  },
+  {
+    "pasta": "carrosseis/005-tensao-corrente",
+    "tipo": "carrossel",
+    "arquivo": "carrosseis/005-tensao-corrente",
+    "status": "pendente"
+  },
+  {
+    "pasta": "carrosseis/006-interruptor-dr",
+    "tipo": "carrossel",
+    "arquivo": "carrosseis/006-interruptor-dr",
+    "status": "pendente"
+  },
+  {
+    "pasta": "carrosseis/007-dps",
+    "tipo": "carrossel",
+    "arquivo": "carrosseis/007-dps",
+    "status": "pendente"
+  },
+  {
+    "pasta": "carrosseis/008-solar-em-dia-nublado",
+    "tipo": "carrossel",
+    "arquivo": "carrosseis/008-solar-em-dia-nublado",
+    "status": "pendente"
+  },
+  {
+    "pasta": "carrosseis/009-alicate-amperimetro",
+    "tipo": "carrossel",
+    "arquivo": "carrosseis/009-alicate-amperimetro",
+    "status": "pendente"
+  },
+  {
+    "pasta": "carrosseis/010-kw-kwh",
+    "tipo": "carrossel",
+    "arquivo": "carrosseis/010-kw-kwh",
+    "status": "pendente"
+  },
+  {
+    "pasta": "carrosseis/011-dps",
+    "tipo": "carrossel",
+    "arquivo": "carrosseis/011-dps",
+    "status": "pendente"
+  },
+  {
+    "pasta": "carrosseis/012-rele-termico",
+    "tipo": "carrossel",
+    "arquivo": "carrosseis/012-rele-termico",
+    "status": "pendente"
+  },
+  {
+    "pasta": "carrosseis/013-placa-solar-e-bateria",
+    "tipo": "carrossel",
+    "arquivo": "carrosseis/013-placa-solar-e-bateria",
+    "status": "pendente"
+  },
+  {
+    "pasta": "carrosseis/014-megometro",
+    "tipo": "carrossel",
+    "arquivo": "carrosseis/014-megometro",
+    "status": "pendente"
+  },
+  {
+    "pasta": "carrosseis/015-ca-cc",
+    "tipo": "carrossel",
+    "arquivo": "carrosseis/015-ca-cc",
+    "status": "pendente"
+  },
+  {
+    "pasta": "carrosseis/016-contator",
+    "tipo": "carrossel",
+    "arquivo": "carrosseis/016-contator",
+    "status": "pendente"
+  },
+  {
+    "pasta": "carrosseis/017-chave-seccionadora",
+    "tipo": "carrossel",
+    "arquivo": "carrosseis/017-chave-seccionadora",
+    "status": "pendente"
+  },
+  {
+    "pasta": "carrosseis/018-solar-e-falta-de-rede",
+    "tipo": "carrossel",
+    "arquivo": "carrosseis/018-solar-e-falta-de-rede",
+    "status": "pendente"
+  },
+  {
+    "pasta": "carrosseis/019-terrometro",
+    "tipo": "carrossel",
+    "arquivo": "carrosseis/019-terrometro",
+    "status": "pendente"
+  },
+  {
+    "pasta": "carrosseis/020-disjuntor-fusivel",
+    "tipo": "carrossel",
+    "arquivo": "carrosseis/020-disjuntor-fusivel",
+    "status": "pendente"
+  },
+  {
+    "pasta": "carrosseis/021-rele-termico",
+    "tipo": "carrossel",
+    "arquivo": "carrosseis/021-rele-termico",
+    "status": "pendente"
+  },
+  {
+    "pasta": "carrosseis/022-inversor-solar",
+    "tipo": "carrossel",
+    "arquivo": "carrosseis/022-inversor-solar",
+    "status": "pendente"
+  },
+  {
+    "pasta": "carrosseis/023-disjuntor-e-choque",
+    "tipo": "carrossel",
+    "arquivo": "carrosseis/023-disjuntor-e-choque",
+    "status": "pendente"
+  },
+  {
+    "pasta": "carrosseis/024-camera-termografica",
+    "tipo": "carrossel",
+    "arquivo": "carrosseis/024-camera-termografica",
+    "status": "pendente"
+  },
+  {
+    "pasta": "carrosseis/025-idr-ddr",
+    "tipo": "carrossel",
+    "arquivo": "carrosseis/025-idr-ddr",
+    "status": "pendente"
+  },
+  {
+    "pasta": "carrosseis/026-fusivel",
+    "tipo": "carrossel",
+    "arquivo": "carrosseis/026-fusivel",
+    "status": "pendente"
+  },
+  {
+    "pasta": "carrosseis/027-inversor-de-frequencia",
+    "tipo": "carrossel",
+    "arquivo": "carrosseis/027-inversor-de-frequencia",
+    "status": "pendente"
+  },
+  {
+    "pasta": "carrosseis/028-dr-e-aterramento",
+    "tipo": "carrossel",
+    "arquivo": "carrosseis/028-dr-e-aterramento",
+    "status": "pendente"
+  },
+  {
+    "pasta": "carrosseis/029-osciloscopio",
+    "tipo": "carrossel",
+    "arquivo": "carrosseis/029-osciloscopio",
+    "status": "pendente"
+  },
+  {
+    "pasta": "carrosseis/030-dps-spda",
+    "tipo": "carrossel",
+    "arquivo": "carrosseis/030-dps-spda",
+    "status": "pendente"
+  },
+  {
+    "pasta": "carrosseis/031-transformador",
+    "tipo": "carrossel",
+    "arquivo": "carrosseis/031-transformador",
+    "status": "pendente"
+  },
+  {
+    "pasta": "carrosseis/032-banco-de-capacitores",
+    "tipo": "carrossel",
+    "arquivo": "carrosseis/032-banco-de-capacitores",
+    "status": "pendente"
+  },
+  {
+    "pasta": "carrosseis/033-dps-e-para-raios",
+    "tipo": "carrossel",
+    "arquivo": "carrosseis/033-dps-e-para-raios",
+    "status": "pendente"
+  },
+  {
+    "pasta": "carrosseis/034-detector-de-tensao-sem-contato",
+    "tipo": "carrossel",
+    "arquivo": "carrosseis/034-detector-de-tensao-sem-contato",
+    "status": "pendente"
+  },
+  {
+    "pasta": "carrosseis/035-neutro-terra",
+    "tipo": "carrossel",
+    "arquivo": "carrosseis/035-neutro-terra",
+    "status": "pendente"
+  },
+  {
+    "pasta": "carrosseis/036-transformador-de-corrente",
+    "tipo": "carrossel",
+    "arquivo": "carrosseis/036-transformador-de-corrente",
+    "status": "pendente"
+  },
+  {
+    "pasta": "carrosseis/037-haste-de-aterramento",
+    "tipo": "carrossel",
+    "arquivo": "carrosseis/037-haste-de-aterramento",
+    "status": "pendente"
+  },
+  {
+    "pasta": "carrosseis/038-capacitor-desligado",
+    "tipo": "carrossel",
+    "arquivo": "carrosseis/038-capacitor-desligado",
+    "status": "pendente"
+  },
+  {
+    "pasta": "carrosseis/039-sequencimetro",
+    "tipo": "carrossel",
+    "arquivo": "carrosseis/039-sequencimetro",
+    "status": "pendente"
+  },
+  {
+    "pasta": "carrosseis/040-serie-paralelo",
+    "tipo": "carrossel",
+    "arquivo": "carrosseis/040-serie-paralelo",
+    "status": "pendente"
+  },
+  {
+    "pasta": "carrosseis/041-rele-temporizador",
+    "tipo": "carrossel",
+    "arquivo": "carrosseis/041-rele-temporizador",
+    "status": "pendente"
+  },
+  {
+    "pasta": "carrosseis/042-barramento-pente",
+    "tipo": "carrossel",
+    "arquivo": "carrosseis/042-barramento-pente",
+    "status": "pendente"
+  },
+  {
+    "pasta": "carrosseis/043-consumo-em-espera",
+    "tipo": "carrossel",
+    "arquivo": "carrosseis/043-consumo-em-espera",
+    "status": "pendente"
+  },
+  {
+    "pasta": "carrosseis/044-luximetro",
+    "tipo": "carrossel",
+    "arquivo": "carrosseis/044-luximetro",
+    "status": "pendente"
+  },
+  {
+    "pasta": "carrosseis/045-monofasico-trifasico",
+    "tipo": "carrossel",
+    "arquivo": "carrosseis/045-monofasico-trifasico",
+    "status": "pendente"
+  },
+  {
+    "pasta": "carrosseis/046-botao-pulsador",
+    "tipo": "carrossel",
+    "arquivo": "carrosseis/046-botao-pulsador",
+    "status": "pendente"
+  },
+  {
+    "pasta": "carrosseis/047-prensa-cabo",
+    "tipo": "carrossel",
+    "arquivo": "carrosseis/047-prensa-cabo",
+    "status": "pendente"
+  },
+  {
+    "pasta": "carrosseis/048-127-v-ou-220-v",
+    "tipo": "carrossel",
+    "arquivo": "carrosseis/048-127-v-ou-220-v",
+    "status": "pendente"
+  },
+  {
+    "pasta": "carrosseis/049-alicate-desencapador",
+    "tipo": "carrossel",
+    "arquivo": "carrosseis/049-alicate-desencapador",
+    "status": "pendente"
+  },
+  {
+    "pasta": "carrosseis/050-contator-rele-termico",
+    "tipo": "carrossel",
+    "arquivo": "carrosseis/050-contator-rele-termico",
+    "status": "pendente"
+  },
+  {
+    "pasta": "carrosseis/051-sinalizador-luminoso",
+    "tipo": "carrossel",
+    "arquivo": "carrosseis/051-sinalizador-luminoso",
+    "status": "pendente"
+  },
+  {
+    "pasta": "carrosseis/052-trilho-din",
+    "tipo": "carrossel",
+    "arquivo": "carrosseis/052-trilho-din",
+    "status": "pendente"
+  },
+  {
+    "pasta": "carrosseis/053-espessura-do-cabo",
+    "tipo": "carrossel",
+    "arquivo": "carrosseis/053-espessura-do-cabo",
+    "status": "pendente"
+  },
+  {
+    "pasta": "carrosseis/054-alicate-de-crimpagem",
+    "tipo": "carrossel",
+    "arquivo": "carrosseis/054-alicate-de-crimpagem",
+    "status": "pendente"
+  },
+  {
+    "pasta": "carrosseis/055-inversor-solar-de-frequencia",
+    "tipo": "carrossel",
+    "arquivo": "carrosseis/055-inversor-solar-de-frequencia",
+    "status": "pendente"
+  },
+  {
+    "pasta": "carrosseis/056-borne-de-passagem",
+    "tipo": "carrossel",
+    "arquivo": "carrosseis/056-borne-de-passagem",
+    "status": "pendente"
+  },
+  {
+    "pasta": "carrosseis/057-eletroduto",
+    "tipo": "carrossel",
+    "arquivo": "carrosseis/057-eletroduto",
+    "status": "pendente"
+  },
+  {
+    "pasta": "carrosseis/058-conexao-frouxa",
+    "tipo": "carrossel",
+    "arquivo": "carrosseis/058-conexao-frouxa",
+    "status": "pendente"
+  },
+  {
+    "pasta": "carrosseis/059-corta-cabos",
+    "tipo": "carrossel",
+    "arquivo": "carrosseis/059-corta-cabos",
+    "status": "pendente"
+  },
+  {
+    "pasta": "carrosseis/060-multimetro-megometro",
+    "tipo": "carrossel",
+    "arquivo": "carrosseis/060-multimetro-megometro",
+    "status": "pendente"
+  },
+  {
+    "pasta": "carrosseis/061-chave-seletora",
+    "tipo": "carrossel",
+    "arquivo": "carrosseis/061-chave-seletora",
+    "status": "pendente"
+  },
+  {
+    "pasta": "carrosseis/062-conector-de-mola",
+    "tipo": "carrossel",
+    "arquivo": "carrosseis/062-conector-de-mola",
+    "status": "pendente"
+  },
+  {
+    "pasta": "carrosseis/063-temperatura-e-cobre",
+    "tipo": "carrossel",
+    "arquivo": "carrosseis/063-temperatura-e-cobre",
+    "status": "pendente"
+  },
+  {
+    "pasta": "carrosseis/064-chave-de-torque",
+    "tipo": "carrossel",
+    "arquivo": "carrosseis/064-chave-de-torque",
+    "status": "pendente"
+  },
+  {
+    "pasta": "carrosseis/065-tc-tp",
+    "tipo": "carrossel",
+    "arquivo": "carrosseis/065-tc-tp",
+    "status": "pendente"
+  },
+  {
+    "pasta": "carrosseis/066-chave-seccionadora",
+    "tipo": "carrossel",
+    "arquivo": "carrosseis/066-chave-seccionadora",
+    "status": "pendente"
+  },
+  {
+    "pasta": "carrosseis/067-nobreak",
+    "tipo": "carrossel",
+    "arquivo": "carrosseis/067-nobreak",
+    "status": "pendente"
+  },
+  {
+    "pasta": "carrosseis/068-tempo-e-consumo",
+    "tipo": "carrossel",
+    "arquivo": "carrosseis/068-tempo-e-consumo",
+    "status": "pendente"
+  },
+  {
+    "pasta": "carrosseis/069-guia-passa-fio",
+    "tipo": "carrossel",
+    "arquivo": "carrosseis/069-guia-passa-fio",
+    "status": "pendente"
+  },
+  {
+    "pasta": "carrosseis/070-sobrecarga-curto-circuito",
+    "tipo": "carrossel",
+    "arquivo": "carrosseis/070-sobrecarga-curto-circuito",
+    "status": "pendente"
+  },
+  {
+    "pasta": "carrosseis/071-inversor-de-frequencia",
+    "tipo": "carrossel",
+    "arquivo": "carrosseis/071-inversor-de-frequencia",
+    "status": "pendente"
+  },
+  {
+    "pasta": "carrosseis/072-transformador-de-isolacao",
+    "tipo": "carrossel",
+    "arquivo": "carrosseis/072-transformador-de-isolacao",
+    "status": "pendente"
+  },
+  {
+    "pasta": "carrosseis/073-alicate-e-corrente-continua",
+    "tipo": "carrossel",
+    "arquivo": "carrosseis/073-alicate-e-corrente-continua",
+    "status": "pendente"
+  },
+  {
+    "pasta": "carrosseis/074-ferro-de-solda",
+    "tipo": "carrossel",
+    "arquivo": "carrosseis/074-ferro-de-solda",
+    "status": "pendente"
+  },
+  {
+    "pasta": "carrosseis/075-solar-fotovoltaico-termico",
+    "tipo": "carrossel",
+    "arquivo": "carrosseis/075-solar-fotovoltaico-termico",
     "status": "pendente"
   }
 ]
